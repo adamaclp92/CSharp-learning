@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Fájlok\C# programok\Otthoni\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Fájlok\C# programok\Otthoni\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Fájlok\C# programok\Otthoni\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Fájlok\C# programok\Otthoni\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

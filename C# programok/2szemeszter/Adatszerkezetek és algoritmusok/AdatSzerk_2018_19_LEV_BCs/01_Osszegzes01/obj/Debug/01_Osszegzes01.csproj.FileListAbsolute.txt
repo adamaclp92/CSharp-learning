@@ -1,0 +1,13 @@
+D:\Troll\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\bin\Debug\01_Osszegzes01.exe.config
+D:\Troll\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\bin\Debug\01_Osszegzes01.exe
+D:\Troll\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\bin\Debug\01_Osszegzes01.pdb
+D:\Troll\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\obj\Debug\01_Osszegzes01.csprojResolveAssemblyReference.cache
+D:\Troll\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\obj\Debug\01_Osszegzes01.exe
+D:\Troll\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\obj\Debug\01_Osszegzes01.pdb
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\bin\Debug\01_Osszegzes01.exe.config
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\bin\Debug\01_Osszegzes01.exe
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\bin\Debug\01_Osszegzes01.pdb
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\obj\Debug\01_Osszegzes01.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\obj\Debug\01_Osszegzes01.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\obj\Debug\01_Osszegzes01.exe
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\01_Osszegzes01\obj\Debug\01_Osszegzes01.pdb

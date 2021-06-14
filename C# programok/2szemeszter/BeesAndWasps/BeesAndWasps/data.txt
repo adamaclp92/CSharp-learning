@@ -1,0 +1,6 @@
+﻿virág;margaréta;22
+méh;poszméh
+darázs;kecskedarázs
+méh;háziméh
+virág;kankalin;17
+darázs;lódarázs

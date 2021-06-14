@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\RÁ\Algogyak_3\g_feladat\bin\Debug\g_feladat.exe.config
+C:\Users\user\Desktop\RÁ\Algogyak_3\g_feladat\bin\Debug\g_feladat.exe
+C:\Users\user\Desktop\RÁ\Algogyak_3\g_feladat\bin\Debug\g_feladat.pdb
+C:\Users\user\Desktop\RÁ\Algogyak_3\g_feladat\obj\Debug\g_feladat.exe
+C:\Users\user\Desktop\RÁ\Algogyak_3\g_feladat\obj\Debug\g_feladat.pdb

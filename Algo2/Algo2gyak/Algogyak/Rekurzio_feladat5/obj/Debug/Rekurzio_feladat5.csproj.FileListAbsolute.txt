@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_feladat5\bin\Debug\Rekurzio_feladat5.exe.config
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_feladat5\bin\Debug\Rekurzio_feladat5.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_feladat5\bin\Debug\Rekurzio_feladat5.pdb
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_feladat5\obj\Debug\Rekurzio_feladat5.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_feladat5\obj\Debug\Rekurzio_feladat5.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_feladat5\obj\Debug\Rekurzio_feladat5.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_feladat5\obj\Debug\Rekurzio_feladat5.pdb

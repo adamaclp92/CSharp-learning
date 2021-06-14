@@ -1,0 +1,11 @@
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.exe.config
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.exe
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\bin\Debug\03_WinForm_Warcraft.pdb
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csprojResolveAssemblyReference.cache
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.Properties.Resources.resources
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.csproj.GenerateResource.Cache
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.exe
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\03_WinForm_Warcraft.pdb
+D:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.MainWindow.resources
+d:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.AddOrcForm.resources
+d:\Troll\MagProg2_2018_19_C\03_WinForm_Warcraft\obj\Debug\_03_WinForm_Warcraft.DisplayOrcForm.resources

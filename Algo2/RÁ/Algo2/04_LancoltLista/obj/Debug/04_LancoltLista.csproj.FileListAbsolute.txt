@@ -1,0 +1,5 @@
+C:\Users\Hallgató\Desktop\RÁ\Algo2\04_LancoltLista\bin\Debug\04_LancoltLista.exe.config
+C:\Users\Hallgató\Desktop\RÁ\Algo2\04_LancoltLista\bin\Debug\04_LancoltLista.exe
+C:\Users\Hallgató\Desktop\RÁ\Algo2\04_LancoltLista\bin\Debug\04_LancoltLista.pdb
+C:\Users\Hallgató\Desktop\RÁ\Algo2\04_LancoltLista\obj\Debug\04_LancoltLista.exe
+C:\Users\Hallgató\Desktop\RÁ\Algo2\04_LancoltLista\obj\Debug\04_LancoltLista.pdb

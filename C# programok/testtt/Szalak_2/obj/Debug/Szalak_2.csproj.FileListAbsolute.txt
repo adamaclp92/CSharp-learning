@@ -1,0 +1,6 @@
+E:\Fájlok\C# programok\testtt\Szalak_2\bin\Debug\Szalak_2.exe.config
+E:\Fájlok\C# programok\testtt\Szalak_2\bin\Debug\Szalak_2.exe
+E:\Fájlok\C# programok\testtt\Szalak_2\bin\Debug\Szalak_2.pdb
+E:\Fájlok\C# programok\testtt\Szalak_2\obj\Debug\Szalak_2.csproj.CoreCompileInputs.cache
+E:\Fájlok\C# programok\testtt\Szalak_2\obj\Debug\Szalak_2.exe
+E:\Fájlok\C# programok\testtt\Szalak_2\obj\Debug\Szalak_2.pdb

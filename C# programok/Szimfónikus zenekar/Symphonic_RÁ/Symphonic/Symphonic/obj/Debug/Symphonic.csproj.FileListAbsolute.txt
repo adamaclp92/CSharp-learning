@@ -1,0 +1,16 @@
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic\Symphonic\obj\Debug\Symphonic.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic\Symphonic\obj\Debug\Symphonic.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic\Symphonic\bin\Debug\instruments.csv
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic\Symphonic\bin\Debug\Symphonic.exe.config
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic\Symphonic\bin\Debug\Symphonic.exe
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic\Symphonic\bin\Debug\Symphonic.pdb
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic\Symphonic\obj\Debug\Symphonic.exe
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic\Symphonic\obj\Debug\Symphonic.pdb
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic_RÁ\Symphonic\Symphonic\bin\Debug\instruments.csv
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic_RÁ\Symphonic\Symphonic\bin\Debug\Symphonic.exe.config
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic_RÁ\Symphonic\Symphonic\bin\Debug\Symphonic.exe
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic_RÁ\Symphonic\Symphonic\bin\Debug\Symphonic.pdb
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic_RÁ\Symphonic\Symphonic\obj\Debug\Symphonic.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic_RÁ\Symphonic\Symphonic\obj\Debug\Symphonic.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic_RÁ\Symphonic\Symphonic\obj\Debug\Symphonic.exe
+D:\Fájlok\C# programok\Szimfónikus zenekar\Symphonic_RÁ\Symphonic\Symphonic\obj\Debug\Symphonic.pdb

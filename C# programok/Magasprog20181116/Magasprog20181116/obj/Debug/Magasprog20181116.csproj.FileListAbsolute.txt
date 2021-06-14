@@ -1,0 +1,13 @@
+D:\Ragó Ádám1992\Magasprog20181116\Magasprog20181116\bin\Debug\Magasprog20181116.exe.config
+D:\Ragó Ádám1992\Magasprog20181116\Magasprog20181116\bin\Debug\Magasprog20181116.exe
+D:\Ragó Ádám1992\Magasprog20181116\Magasprog20181116\bin\Debug\Magasprog20181116.pdb
+D:\Ragó Ádám1992\Magasprog20181116\Magasprog20181116\obj\Debug\Magasprog20181116.csprojResolveAssemblyReference.cache
+D:\Ragó Ádám1992\Magasprog20181116\Magasprog20181116\obj\Debug\Magasprog20181116.exe
+D:\Ragó Ádám1992\Magasprog20181116\Magasprog20181116\obj\Debug\Magasprog20181116.pdb
+D:\Fájlok\C# programok\Magasprog20181116\Magasprog20181116\bin\Debug\Magasprog20181116.exe.config
+D:\Fájlok\C# programok\Magasprog20181116\Magasprog20181116\bin\Debug\Magasprog20181116.exe
+D:\Fájlok\C# programok\Magasprog20181116\Magasprog20181116\bin\Debug\Magasprog20181116.pdb
+D:\Fájlok\C# programok\Magasprog20181116\Magasprog20181116\obj\Debug\Magasprog20181116.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Magasprog20181116\Magasprog20181116\obj\Debug\Magasprog20181116.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Magasprog20181116\Magasprog20181116\obj\Debug\Magasprog20181116.exe
+D:\Fájlok\C# programok\Magasprog20181116\Magasprog20181116\obj\Debug\Magasprog20181116.pdb

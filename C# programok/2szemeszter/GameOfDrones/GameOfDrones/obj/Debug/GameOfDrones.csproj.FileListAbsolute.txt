@@ -1,0 +1,12 @@
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\bin\Debug\commands.txt
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\bin\Debug\uavs.txt
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\bin\Debug\GameOfDrones.exe.config
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\bin\Debug\GameOfDrones.exe
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\bin\Debug\GameOfDrones.pdb
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\obj\Debug\GameOfDrones.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\obj\Debug\GameOfDrones.Form1.resources
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\obj\Debug\GameOfDrones.Properties.Resources.resources
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\obj\Debug\GameOfDrones.csproj.GenerateResource.cache
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\obj\Debug\GameOfDrones.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\obj\Debug\GameOfDrones.exe
+d:\Fájlok\C# programok\2szemeszter\GameOfDrones\GameOfDrones\obj\Debug\GameOfDrones.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\4. feladat\bin\Debug\_4.feladat.exe.config
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\4. feladat\bin\Debug\_4.feladat.exe
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\4. feladat\bin\Debug\_4.feladat.pdb
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\4. feladat\obj\Debug\_4.feladat.exe
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\4. feladat\obj\Debug\_4.feladat.pdb

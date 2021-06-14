@@ -1,0 +1,6 @@
+﻿Boros;60
+Sörös;50
+Pezsgős;40
+Szeszes;30
+Pet_palack;80
+Üdítős;70

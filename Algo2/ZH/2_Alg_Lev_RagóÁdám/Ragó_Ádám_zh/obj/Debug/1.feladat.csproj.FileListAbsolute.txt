@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\Ragó_Ádám_zh\bin\Debug\Ragó_Ádám_zh.exe.config
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\Ragó_Ádám_zh\bin\Debug\Ragó_Ádám_zh.exe
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\Ragó_Ádám_zh\bin\Debug\Ragó_Ádám_zh.pdb
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\Ragó_Ádám_zh\obj\Debug\1.feladat.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\Ragó_Ádám_zh\obj\Debug\Ragó_Ádám_zh.exe
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\Ragó_Ádám_zh\obj\Debug\Ragó_Ádám_zh.pdb
+C:\Users\user\Desktop\RA\2_Alg_Lev_RagóÁdám\Ragó_Ádám_zh\bin\Debug\Ragó_Ádám_zh.exe.config
+C:\Users\user\Desktop\RA\2_Alg_Lev_RagóÁdám\Ragó_Ádám_zh\obj\Debug\Ragó_Ádám_zh.exe
+C:\Users\user\Desktop\RA\2_Alg_Lev_RagóÁdám\Ragó_Ádám_zh\obj\Debug\Ragó_Ádám_zh.pdb
+C:\Users\user\Desktop\RA\2_Alg_Lev_RagóÁdám\Ragó_Ádám_zh\bin\Debug\Ragó_Ádám_zh.exe
+C:\Users\user\Desktop\RA\2_Alg_Lev_RagóÁdám\Ragó_Ádám_zh\bin\Debug\Ragó_Ádám_zh.pdb
+C:\Users\user\Desktop\RA\2_Alg_Lev_RagóÁdám\Ragó_Ádám_zh\obj\Debug\1.feladat.csprojResolveAssemblyReference.cache

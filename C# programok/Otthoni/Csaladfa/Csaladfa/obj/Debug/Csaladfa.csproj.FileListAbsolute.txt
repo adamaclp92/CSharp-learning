@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\Csaladfa\Csaladfa\bin\Debug\Csaladfa.exe.config
+D:\Fájlok\C# programok\Otthoni\Csaladfa\Csaladfa\bin\Debug\Csaladfa.exe
+D:\Fájlok\C# programok\Otthoni\Csaladfa\Csaladfa\bin\Debug\Csaladfa.pdb
+D:\Fájlok\C# programok\Otthoni\Csaladfa\Csaladfa\obj\Debug\Csaladfa.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\Csaladfa\Csaladfa\obj\Debug\Csaladfa.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\Csaladfa\Csaladfa\obj\Debug\Csaladfa.exe
+D:\Fájlok\C# programok\Otthoni\Csaladfa\Csaladfa\obj\Debug\Csaladfa.pdb

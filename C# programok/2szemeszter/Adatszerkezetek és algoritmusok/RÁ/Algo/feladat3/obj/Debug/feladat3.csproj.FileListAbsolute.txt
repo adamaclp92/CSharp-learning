@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\RÁ\Algo\feladat3\bin\Debug\feladat3.exe.config
+C:\Users\user\Desktop\RÁ\Algo\feladat3\bin\Debug\feladat3.exe
+C:\Users\user\Desktop\RÁ\Algo\feladat3\bin\Debug\feladat3.pdb
+C:\Users\user\Desktop\RÁ\Algo\feladat3\obj\Debug\feladat3.exe
+C:\Users\user\Desktop\RÁ\Algo\feladat3\obj\Debug\feladat3.pdb

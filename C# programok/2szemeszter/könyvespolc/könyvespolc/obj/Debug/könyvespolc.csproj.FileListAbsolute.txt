@@ -1,0 +1,7 @@
+C:\Users\neuma\Desktop\könyvespolc\könyvespolc\bin\Debug\könyvespolc.exe.config
+C:\Users\neuma\Desktop\könyvespolc\könyvespolc\bin\Debug\könyvespolc.exe
+C:\Users\neuma\Desktop\könyvespolc\könyvespolc\bin\Debug\könyvespolc.pdb
+C:\Users\neuma\Desktop\könyvespolc\könyvespolc\obj\Debug\könyvespolc.csprojAssemblyReference.cache
+C:\Users\neuma\Desktop\könyvespolc\könyvespolc\obj\Debug\könyvespolc.csproj.CoreCompileInputs.cache
+C:\Users\neuma\Desktop\könyvespolc\könyvespolc\obj\Debug\könyvespolc.exe
+C:\Users\neuma\Desktop\könyvespolc\könyvespolc\obj\Debug\könyvespolc.pdb

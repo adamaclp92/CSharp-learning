@@ -1,0 +1,5 @@
+D:\Troll\_2018_19_MPI_LEV_A\02_Adatbekeres\02_Adatbekeres\bin\Debug\02_Adatbekeres.exe.config
+D:\Troll\_2018_19_MPI_LEV_A\02_Adatbekeres\02_Adatbekeres\bin\Debug\02_Adatbekeres.exe
+D:\Troll\_2018_19_MPI_LEV_A\02_Adatbekeres\02_Adatbekeres\bin\Debug\02_Adatbekeres.pdb
+D:\Troll\_2018_19_MPI_LEV_A\02_Adatbekeres\02_Adatbekeres\obj\Debug\02_Adatbekeres.exe
+D:\Troll\_2018_19_MPI_LEV_A\02_Adatbekeres\02_Adatbekeres\obj\Debug\02_Adatbekeres.pdb

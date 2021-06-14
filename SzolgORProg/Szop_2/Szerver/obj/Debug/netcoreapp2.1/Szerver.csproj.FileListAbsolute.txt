@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\Szop_2\Szerver\obj\Debug\netcoreapp2.1\Szerver.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Szop_2\Szerver\obj\Debug\netcoreapp2.1\Szerver.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Szop_2\Szerver\obj\Debug\netcoreapp2.1\Szerver.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Szop_2\Szerver\obj\Debug\netcoreapp2.1\Szerver.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Szop_2\Szerver\bin\Debug\netcoreapp2.1\Szerver.deps.json
+C:\Users\Adam\source\repos\Szop_2\Szerver\bin\Debug\netcoreapp2.1\Szerver.runtimeconfig.json
+C:\Users\Adam\source\repos\Szop_2\Szerver\bin\Debug\netcoreapp2.1\Szerver.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Szop_2\Szerver\bin\Debug\netcoreapp2.1\Szerver.dll
+C:\Users\Adam\source\repos\Szop_2\Szerver\bin\Debug\netcoreapp2.1\Szerver.pdb
+C:\Users\Adam\source\repos\Szop_2\Szerver\obj\Debug\netcoreapp2.1\Szerver.dll
+C:\Users\Adam\source\repos\Szop_2\Szerver\obj\Debug\netcoreapp2.1\Szerver.pdb

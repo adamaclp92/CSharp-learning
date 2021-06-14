@@ -1,0 +1,11 @@
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\bin\Debug\07_BookshopClient.exe.config
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\bin\Debug\07_BookshopClient.exe
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\bin\Debug\07_BookshopClient.pdb
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\bin\Debug\06_BookshopDLL.dll
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\bin\Debug\06_BookshopDLL.pdb
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\obj\Debug\07_BookshopClient.csprojResolveAssemblyReference.cache
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\obj\Debug\_07_BookshopClient.Form1.resources
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\obj\Debug\_07_BookshopClient.Properties.Resources.resources
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\obj\Debug\07_BookshopClient.csproj.GenerateResource.Cache
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\obj\Debug\07_BookshopClient.exe
+D:\Troll\MagProg2_2018_19_C\07_BookshopClient\obj\Debug\07_BookshopClient.pdb

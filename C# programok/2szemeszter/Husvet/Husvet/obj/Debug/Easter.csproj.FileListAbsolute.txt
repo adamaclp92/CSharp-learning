@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprog2_2\Husvet\Husvet\obj\Debug\Easter.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprog2_2\Husvet\Husvet\bin\Debug\Husvet.exe.config
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprog2_2\Husvet\Husvet\bin\Debug\Husvet.exe
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprog2_2\Husvet\Husvet\bin\Debug\Husvet.pdb
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprog2_2\Husvet\Husvet\obj\Debug\Husvet.exe
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprog2_2\Husvet\Husvet\obj\Debug\Husvet.pdb
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprog2_2\Husvet\Husvet\bin\Debug\Pub.txt
+D:\Fájlok\C# programok\2szemeszter\Husvet\Husvet\bin\Debug\Pub.txt
+D:\Fájlok\C# programok\2szemeszter\Husvet\Husvet\bin\Debug\Husvet.exe.config
+D:\Fájlok\C# programok\2szemeszter\Husvet\Husvet\bin\Debug\Husvet.exe
+D:\Fájlok\C# programok\2szemeszter\Husvet\Husvet\bin\Debug\Husvet.pdb
+D:\Fájlok\C# programok\2szemeszter\Husvet\Husvet\obj\Debug\Easter.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Husvet\Husvet\obj\Debug\Easter.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Husvet\Husvet\obj\Debug\Husvet.exe
+D:\Fájlok\C# programok\2szemeszter\Husvet\Husvet\obj\Debug\Husvet.pdb
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Husvet\Husvet\bin\Debug\Pub.txt
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Husvet\Husvet\bin\Debug\Husvet.exe.config
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Husvet\Husvet\bin\Debug\Husvet.exe
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Husvet\Husvet\bin\Debug\Husvet.pdb
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Husvet\Husvet\obj\Debug\Easter.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Husvet\Husvet\obj\Debug\Easter.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Husvet\Husvet\obj\Debug\Husvet.exe
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Husvet\Husvet\obj\Debug\Husvet.pdb

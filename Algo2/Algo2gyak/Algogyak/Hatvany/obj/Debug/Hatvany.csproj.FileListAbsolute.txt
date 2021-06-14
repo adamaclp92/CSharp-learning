@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Hatvany\bin\Debug\Hatvany.exe.config
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Hatvany\bin\Debug\Hatvany.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Hatvany\bin\Debug\Hatvany.pdb
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Hatvany\obj\Debug\Hatvany.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Hatvany\obj\Debug\Hatvany.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Hatvany\obj\Debug\Hatvany.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Hatvany\obj\Debug\Hatvany.pdb

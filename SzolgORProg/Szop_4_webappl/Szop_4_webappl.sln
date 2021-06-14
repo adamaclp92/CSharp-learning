@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szop_4_webappl", "Szop_4_webappl\Szop_4_webappl.csproj", "{ACC61565-DFD0-41D4-9273-E5F7C89C9E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "WcfService1\WcfService1.csproj", "{5DF449AA-05B6-4424-9D80-E3B6DF34495B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC61565-DFD0-41D4-9273-E5F7C89C9E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC61565-DFD0-41D4-9273-E5F7C89C9E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC61565-DFD0-41D4-9273-E5F7C89C9E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC61565-DFD0-41D4-9273-E5F7C89C9E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF449AA-05B6-4424-9D80-E3B6DF34495B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF449AA-05B6-4424-9D80-E3B6DF34495B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF449AA-05B6-4424-9D80-E3B6DF34495B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF449AA-05B6-4424-9D80-E3B6DF34495B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D419B0CF-D7BA-4CFC-BCF4-B87213C6FA25}
+	EndGlobalSection
+EndGlobal

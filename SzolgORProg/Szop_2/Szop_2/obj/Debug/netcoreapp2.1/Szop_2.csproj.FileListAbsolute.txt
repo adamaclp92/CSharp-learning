@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\Szop_2\Szop_2\bin\Debug\netcoreapp2.1\Szop_2.deps.json
+C:\Users\Adam\source\repos\Szop_2\Szop_2\bin\Debug\netcoreapp2.1\Szop_2.runtimeconfig.json
+C:\Users\Adam\source\repos\Szop_2\Szop_2\bin\Debug\netcoreapp2.1\Szop_2.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Szop_2\Szop_2\bin\Debug\netcoreapp2.1\Szop_2.dll
+C:\Users\Adam\source\repos\Szop_2\Szop_2\bin\Debug\netcoreapp2.1\Szop_2.pdb
+C:\Users\Adam\source\repos\Szop_2\Szop_2\obj\Debug\netcoreapp2.1\Szop_2.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Szop_2\Szop_2\obj\Debug\netcoreapp2.1\Szop_2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Szop_2\Szop_2\obj\Debug\netcoreapp2.1\Szop_2.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Szop_2\Szop_2\obj\Debug\netcoreapp2.1\Szop_2.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Szop_2\Szop_2\obj\Debug\netcoreapp2.1\Szop_2.dll
+C:\Users\Adam\source\repos\Szop_2\Szop_2\obj\Debug\netcoreapp2.1\Szop_2.pdb

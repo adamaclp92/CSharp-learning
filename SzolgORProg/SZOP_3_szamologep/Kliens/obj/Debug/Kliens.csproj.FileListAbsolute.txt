@@ -1,0 +1,10 @@
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\bin\Debug\Kliens.exe.config
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\bin\Debug\Kliens.exe
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\bin\Debug\Kliens.pdb
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\bin\Debug\szamologepsz.dll
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\bin\Debug\szamologepsz.pdb
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\obj\Debug\Kliens.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\obj\Debug\Kliens.csproj.CopyComplete
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\obj\Debug\Kliens.exe
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\obj\Debug\Kliens.pdb
+C:\Users\Adam\source\repos\SZOP_3_szamologep\Kliens\obj\Debug\Kliens.csprojAssemblyReference.cache

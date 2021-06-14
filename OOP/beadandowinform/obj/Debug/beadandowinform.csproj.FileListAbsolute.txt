@@ -1,0 +1,13 @@
+C:\Users\Adam\source\repos\OOP\beadandowinform\bin\Debug\beadandowinform.exe.config
+C:\Users\Adam\source\repos\OOP\beadandowinform\bin\Debug\beadandowinform.exe
+C:\Users\Adam\source\repos\OOP\beadandowinform\bin\Debug\beadandowinform.pdb
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.Form1.resources
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.Form2.resources
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.Properties.Resources.resources
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.exe
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.pdb
+C:\Users\Adam\source\repos\OOP\beadandowinform\bin\Debug\Arlista.txt
+C:\Users\Adam\source\repos\OOP\beadandowinform\obj\Debug\beadandowinform.menu.resources

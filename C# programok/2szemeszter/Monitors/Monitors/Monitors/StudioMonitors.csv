@@ -1,0 +1,9 @@
+﻿1920;1080;LCD;true
+2560;1340;LED;false;active;4
+760;480;CRT;false
+1920;1080;LED;true
+3840;2160;Plasma;true;passive;4
+1920;1080;LED;true
+4090;3070;Plasma;true;passive;4
+4090;3070;LED;false;active;4
+4090;2050;LCD;true;active;2

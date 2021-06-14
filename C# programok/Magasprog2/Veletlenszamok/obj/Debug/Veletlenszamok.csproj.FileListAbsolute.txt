@@ -1,0 +1,6 @@
+D:\Ragó Ádám1992\Magasprog2\Veletlenszamok\bin\Debug\Veletlenszamok.exe.config
+D:\Ragó Ádám1992\Magasprog2\Veletlenszamok\bin\Debug\Veletlenszamok.exe
+D:\Ragó Ádám1992\Magasprog2\Veletlenszamok\bin\Debug\Veletlenszamok.pdb
+D:\Ragó Ádám1992\Magasprog2\Veletlenszamok\obj\Debug\Veletlenszamok.exe
+D:\Ragó Ádám1992\Magasprog2\Veletlenszamok\obj\Debug\Veletlenszamok.pdb
+D:\Ragó Ádám1992\Magasprog2\Veletlenszamok\obj\Debug\Veletlenszamok.csprojResolveAssemblyReference.cache

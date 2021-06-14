@@ -1,0 +1,45 @@
+// Iteratív
+FÜGGVÉNY BinKer(A_: SOROZAT, Adat: ElemTípus, Hely_: EGÉSZ): LOGIKAI;
+VÁLTOZÓK
+	E: EGÉSZ;
+	U: EGÉSZ;
+	K: EGÉSZ;
+ALGORITMUS
+	E <- 1;
+	U <- A.ElemSzám;
+	K <- (E + U) DIV 2;
+	CIKLUS_AMÍG (E <= U) ÉS (A[K] != Adat)
+		HA A[K] > Adat AKKOR
+			E <- K + 1;
+		KÜLÖNBEN
+			U <- K - 1;
+		HVÉGE;
+		K <- (E + U) DIV 2;
+	CVÉGE;
+	
+	Hely <- K;
+	BinKer <- (E <= U);
+FVÉGE;
+
+FÜGGVÉNY RekBinKer(A_: SOROZAT, Adat: ELEMTÍPUS, Hely_: EGÉSZ, E, U: EGÉSZ): LOGIKAI;
+VÁLTOZÓK
+	K: EGÉSZ;
+ALGORITMUS
+	HA E > U AKKOR
+		RekBinKer <- HAMIS;
+	KÜLÖNBEN
+		K <- (E + U) DIV 2;
+		HA A[K] < Adat AKKOR
+			RekBinKer <- RekBinKer(A, Adat, Hely, K + 1, U);
+		KÜLÖNBEN
+			HA A[K] > Adat AKKOR
+				RekBinKer <- RekBinKer(A, Adat, Hely, E, K - 1);	
+			KÜLÖNBEN
+				Hely <- K;
+				RekBinKer <- IGAZ;
+			HVÉGE;
+		HVÉGE;
+	HVÉGE;
+FVÉGE;
+
+

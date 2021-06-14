@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\Szop_2\Kliens\bin\Debug\netcoreapp2.1\Kliens.deps.json
+C:\Users\Adam\source\repos\Szop_2\Kliens\bin\Debug\netcoreapp2.1\Kliens.runtimeconfig.json
+C:\Users\Adam\source\repos\Szop_2\Kliens\bin\Debug\netcoreapp2.1\Kliens.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Szop_2\Kliens\bin\Debug\netcoreapp2.1\Kliens.dll
+C:\Users\Adam\source\repos\Szop_2\Kliens\bin\Debug\netcoreapp2.1\Kliens.pdb
+C:\Users\Adam\source\repos\Szop_2\Kliens\obj\Debug\netcoreapp2.1\Kliens.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Szop_2\Kliens\obj\Debug\netcoreapp2.1\Kliens.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Szop_2\Kliens\obj\Debug\netcoreapp2.1\Kliens.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Szop_2\Kliens\obj\Debug\netcoreapp2.1\Kliens.dll
+C:\Users\Adam\source\repos\Szop_2\Kliens\obj\Debug\netcoreapp2.1\Kliens.pdb
+C:\Users\Adam\source\repos\Szop_2\Kliens\obj\Debug\netcoreapp2.1\Kliens.csprojAssemblyReference.cache

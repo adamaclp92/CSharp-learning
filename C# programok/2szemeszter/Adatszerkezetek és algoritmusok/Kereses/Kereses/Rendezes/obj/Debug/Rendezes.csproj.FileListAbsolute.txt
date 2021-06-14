@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Rendezes\bin\Debug\Rendezes.exe.config
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Rendezes\bin\Debug\Rendezes.exe
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Rendezes\bin\Debug\Rendezes.pdb
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Rendezes\obj\Debug\Rendezes.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Rendezes\obj\Debug\Rendezes.exe
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Rendezes\obj\Debug\Rendezes.pdb
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Rendezes\obj\Debug\Rendezes.csprojAssemblyReference.cache

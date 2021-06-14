@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_lecke", "SZOP\1_lecke.csproj", "{0D3295F9-1917-4E8C-B0AA-4528B9088CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tobbszal", "tobbszal\tobbszal.csproj", "{74EC7634-486A-4E51-AE50-9C6E9E22DE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kozos_valtozok", "Kozos_valtozok\Kozos_valtozok.csproj", "{EDE76593-C37C-4807-9830-306E0A50A12F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kozos_eroforras", "Kozos_eroforras\Kozos_eroforras.csproj", "{51CE7358-363D-45BF-854D-A86329830E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Termelo_Fogyaszto", "Termelo_Fogyaszto\Termelo_Fogyaszto.csproj", "{1EE11C77-9CA7-49AC-8672-677FA0C7DF46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semafor", "Semafor\Semafor.csproj", "{A2BE4949-692B-463E-882A-BC8588D71FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3295F9-1917-4E8C-B0AA-4528B9088CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3295F9-1917-4E8C-B0AA-4528B9088CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3295F9-1917-4E8C-B0AA-4528B9088CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3295F9-1917-4E8C-B0AA-4528B9088CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EC7634-486A-4E51-AE50-9C6E9E22DE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EC7634-486A-4E51-AE50-9C6E9E22DE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EC7634-486A-4E51-AE50-9C6E9E22DE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EC7634-486A-4E51-AE50-9C6E9E22DE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE76593-C37C-4807-9830-306E0A50A12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE76593-C37C-4807-9830-306E0A50A12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE76593-C37C-4807-9830-306E0A50A12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE76593-C37C-4807-9830-306E0A50A12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CE7358-363D-45BF-854D-A86329830E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CE7358-363D-45BF-854D-A86329830E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CE7358-363D-45BF-854D-A86329830E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CE7358-363D-45BF-854D-A86329830E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE11C77-9CA7-49AC-8672-677FA0C7DF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE11C77-9CA7-49AC-8672-677FA0C7DF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE11C77-9CA7-49AC-8672-677FA0C7DF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE11C77-9CA7-49AC-8672-677FA0C7DF46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BE4949-692B-463E-882A-BC8588D71FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BE4949-692B-463E-882A-BC8588D71FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BE4949-692B-463E-882A-BC8588D71FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BE4949-692B-463E-882A-BC8588D71FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {957978C8-AD76-42F8-83AC-F8DC35796872}
+	EndGlobalSection
+EndGlobal

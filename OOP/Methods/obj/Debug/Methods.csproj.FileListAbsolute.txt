@@ -1,0 +1,6 @@
+C:\Users\Adam\source\repos\OOP\Methods\bin\Debug\Methods.exe.config
+C:\Users\Adam\source\repos\OOP\Methods\bin\Debug\Methods.exe
+C:\Users\Adam\source\repos\OOP\Methods\bin\Debug\Methods.pdb
+C:\Users\Adam\source\repos\OOP\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\OOP\Methods\obj\Debug\Methods.exe
+C:\Users\Adam\source\repos\OOP\Methods\obj\Debug\Methods.pdb

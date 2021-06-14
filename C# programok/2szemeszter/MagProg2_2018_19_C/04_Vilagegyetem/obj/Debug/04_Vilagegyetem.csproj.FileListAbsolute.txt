@@ -1,0 +1,14 @@
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.exe.config
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.exe
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.pdb
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.exe
+D:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.pdb
+d:\Troll\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\Egitestek.csv
+d:\Fájlok\C# programok\2szemeszter\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\Egitestek.csv
+d:\Fájlok\C# programok\2szemeszter\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.exe.config
+d:\Fájlok\C# programok\2szemeszter\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.exe
+d:\Fájlok\C# programok\2szemeszter\MagProg2_2018_19_C\04_Vilagegyetem\bin\Debug\04_Vilagegyetem.pdb
+d:\Fájlok\C# programok\2szemeszter\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\2szemeszter\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\2szemeszter\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.exe
+d:\Fájlok\C# programok\2szemeszter\MagProg2_2018_19_C\04_Vilagegyetem\obj\Debug\04_Vilagegyetem.pdb

@@ -1,0 +1,8 @@
+D:\Fájlok\C# programok\2szemeszter\magasprog_2_3\magasprog_2_3\obj\Debug\magasprog_2_3.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\magasprog_2_3\magasprog_2_3\obj\Debug\magasprog_2_3.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\magasprog_2_3\magasprog_2_3\bin\Debug\magasprog_2_3.exe.config
+D:\Fájlok\C# programok\2szemeszter\magasprog_2_3\magasprog_2_3\bin\Debug\magasprog_2_3.exe
+D:\Fájlok\C# programok\2szemeszter\magasprog_2_3\magasprog_2_3\bin\Debug\magasprog_2_3.pdb
+D:\Fájlok\C# programok\2szemeszter\magasprog_2_3\magasprog_2_3\obj\Debug\magasprog_2_3.exe
+D:\Fájlok\C# programok\2szemeszter\magasprog_2_3\magasprog_2_3\obj\Debug\magasprog_2_3.pdb
+D:\Fájlok\C# programok\2szemeszter\magasprog_2_3\magasprog_2_3\bin\Debug\Cars.csv

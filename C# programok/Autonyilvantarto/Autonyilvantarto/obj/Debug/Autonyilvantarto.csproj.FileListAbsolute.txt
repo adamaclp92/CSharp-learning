@@ -1,0 +1,6 @@
+D:\Nyiro_Mate\Autonyilvantarto\Autonyilvantarto\bin\Debug\Autonyilvantarto.exe.config
+D:\Nyiro_Mate\Autonyilvantarto\Autonyilvantarto\bin\Debug\Autonyilvantarto.exe
+D:\Nyiro_Mate\Autonyilvantarto\Autonyilvantarto\bin\Debug\Autonyilvantarto.pdb
+D:\Nyiro_Mate\Autonyilvantarto\Autonyilvantarto\obj\Debug\Autonyilvantarto.csprojResolveAssemblyReference.cache
+D:\Nyiro_Mate\Autonyilvantarto\Autonyilvantarto\obj\Debug\Autonyilvantarto.exe
+D:\Nyiro_Mate\Autonyilvantarto\Autonyilvantarto\obj\Debug\Autonyilvantarto.pdb

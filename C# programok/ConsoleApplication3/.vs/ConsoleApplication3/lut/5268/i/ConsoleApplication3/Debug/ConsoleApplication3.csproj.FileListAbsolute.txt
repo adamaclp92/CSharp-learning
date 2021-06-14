@@ -1,0 +1,2 @@
+D:\Fájlok\C# programok\ConsoleApplication3\.vs\ConsoleApplication3\lut\0\i\ConsoleApplication3\Debug\ConsoleApplication3.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\ConsoleApplication3\.vs\ConsoleApplication3\lut\0\i\ConsoleApplication3\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache

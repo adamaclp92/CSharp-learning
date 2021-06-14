@@ -1,0 +1,14 @@
+C:\Users\Adam\source\repos\Algo\Algo\bin\Debug\Algo.exe.config
+C:\Users\Adam\source\repos\Algo\Algo\bin\Debug\Algo.exe
+C:\Users\Adam\source\repos\Algo\Algo\bin\Debug\Algo.pdb
+C:\Users\Adam\source\repos\Algo\Algo\obj\Debug\Algo_1.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Algo\Algo\obj\Debug\Algo_1.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Algo\Algo\obj\Debug\Algo.exe
+C:\Users\Adam\source\repos\Algo\Algo\obj\Debug\Algo.pdb
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo\Algo\bin\Debug\Algo.exe.config
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo\Algo\bin\Debug\Algo.exe
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo\Algo\bin\Debug\Algo.pdb
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo\Algo\obj\Debug\Algo_1.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo\Algo\obj\Debug\Algo_1.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo\Algo\obj\Debug\Algo.exe
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo\Algo\obj\Debug\Algo.pdb

@@ -1,0 +1,4 @@
+﻿24356;Feri Drón;10;20,3;false
+3127;Friderika Drón;5,2;-4,4;true
+10934;Hugó Drón;8,1;18,2;5;12,5
+111;Hedvig Drón;-2,2;8;3;10

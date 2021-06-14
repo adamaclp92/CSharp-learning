@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\Students\Students\Students\bin\Debug\Students.exe.config
+D:\Fájlok\C# programok\2szemeszter\Students\Students\Students\bin\Debug\Students.exe
+D:\Fájlok\C# programok\2szemeszter\Students\Students\Students\bin\Debug\Students.pdb
+D:\Fájlok\C# programok\2szemeszter\Students\Students\Students\obj\Debug\Students.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Students\Students\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Students\Students\Students\obj\Debug\Students.exe
+D:\Fájlok\C# programok\2szemeszter\Students\Students\Students\obj\Debug\Students.pdb

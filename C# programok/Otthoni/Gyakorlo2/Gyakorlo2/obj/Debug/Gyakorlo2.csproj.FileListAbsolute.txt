@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\Gyakorlo2\Gyakorlo2\bin\Debug\Gyakorlo2.exe.config
+D:\Fájlok\C# programok\Otthoni\Gyakorlo2\Gyakorlo2\bin\Debug\Gyakorlo2.exe
+D:\Fájlok\C# programok\Otthoni\Gyakorlo2\Gyakorlo2\bin\Debug\Gyakorlo2.pdb
+D:\Fájlok\C# programok\Otthoni\Gyakorlo2\Gyakorlo2\obj\Debug\Gyakorlo2.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\Gyakorlo2\Gyakorlo2\obj\Debug\Gyakorlo2.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\Gyakorlo2\Gyakorlo2\obj\Debug\Gyakorlo2.exe
+D:\Fájlok\C# programok\Otthoni\Gyakorlo2\Gyakorlo2\obj\Debug\Gyakorlo2.pdb

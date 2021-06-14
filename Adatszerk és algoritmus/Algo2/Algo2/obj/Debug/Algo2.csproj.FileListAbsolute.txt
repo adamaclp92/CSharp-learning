@@ -1,0 +1,14 @@
+C:\Users\Adam\source\repos\Algo2\Algo2\bin\Debug\Algo2.exe.config
+C:\Users\Adam\source\repos\Algo2\Algo2\bin\Debug\Algo2.exe
+C:\Users\Adam\source\repos\Algo2\Algo2\bin\Debug\Algo2.pdb
+C:\Users\Adam\source\repos\Algo2\Algo2\obj\Debug\Algo2.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Algo2\Algo2\obj\Debug\Algo2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Algo2\Algo2\obj\Debug\Algo2.exe
+C:\Users\Adam\source\repos\Algo2\Algo2\obj\Debug\Algo2.pdb
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\Algo2\bin\Debug\Algo2.exe.config
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\Algo2\bin\Debug\Algo2.exe
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\Algo2\bin\Debug\Algo2.pdb
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\Algo2\obj\Debug\Algo2.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\Algo2\obj\Debug\Algo2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\Algo2\obj\Debug\Algo2.exe
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\Algo2\obj\Debug\Algo2.pdb

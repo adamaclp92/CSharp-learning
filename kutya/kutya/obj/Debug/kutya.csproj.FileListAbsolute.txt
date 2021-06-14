@@ -1,0 +1,7 @@
+C:\Users\Adam\source\repos\kutya\kutya\bin\Debug\kutya.exe.config
+C:\Users\Adam\source\repos\kutya\kutya\bin\Debug\kutya.exe
+C:\Users\Adam\source\repos\kutya\kutya\bin\Debug\kutya.pdb
+C:\Users\Adam\source\repos\kutya\kutya\obj\Debug\kutya.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\kutya\kutya\obj\Debug\kutya.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\kutya\kutya\obj\Debug\kutya.exe
+C:\Users\Adam\source\repos\kutya\kutya\obj\Debug\kutya.pdb

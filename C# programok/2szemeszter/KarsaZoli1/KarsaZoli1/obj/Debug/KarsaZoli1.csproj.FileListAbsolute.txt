@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\KarsaZoli1\KarsaZoli1\bin\Debug\KarsaZoli1.exe.config
+D:\Fájlok\C# programok\2szemeszter\KarsaZoli1\KarsaZoli1\bin\Debug\KarsaZoli1.exe
+D:\Fájlok\C# programok\2szemeszter\KarsaZoli1\KarsaZoli1\bin\Debug\KarsaZoli1.pdb
+D:\Fájlok\C# programok\2szemeszter\KarsaZoli1\KarsaZoli1\obj\Debug\KarsaZoli1.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\KarsaZoli1\KarsaZoli1\obj\Debug\KarsaZoli1.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\KarsaZoli1\KarsaZoli1\obj\Debug\KarsaZoli1.exe
+D:\Fájlok\C# programok\2szemeszter\KarsaZoli1\KarsaZoli1\obj\Debug\KarsaZoli1.pdb

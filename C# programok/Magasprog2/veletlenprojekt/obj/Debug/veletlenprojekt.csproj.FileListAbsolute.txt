@@ -1,0 +1,6 @@
+D:\Ragó Ádám1992\Magasprog2\veletlenprojekt\bin\Debug\veletlenprojekt.exe.config
+D:\Ragó Ádám1992\Magasprog2\veletlenprojekt\bin\Debug\veletlenprojekt.exe
+D:\Ragó Ádám1992\Magasprog2\veletlenprojekt\bin\Debug\veletlenprojekt.pdb
+D:\Ragó Ádám1992\Magasprog2\veletlenprojekt\obj\Debug\veletlenprojekt.exe
+D:\Ragó Ádám1992\Magasprog2\veletlenprojekt\obj\Debug\veletlenprojekt.pdb
+D:\Ragó Ádám1992\Magasprog2\veletlenprojekt\obj\Debug\veletlenprojekt.csprojResolveAssemblyReference.cache

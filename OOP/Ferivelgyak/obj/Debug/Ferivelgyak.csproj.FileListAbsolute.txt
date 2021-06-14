@@ -1,0 +1,8 @@
+C:\Users\Adam\source\repos\OOP\Ferivelgyak\bin\Debug\Ferivelgyak.exe.config
+C:\Users\Adam\source\repos\OOP\Ferivelgyak\bin\Debug\Ferivelgyak.exe
+C:\Users\Adam\source\repos\OOP\Ferivelgyak\bin\Debug\Ferivelgyak.pdb
+C:\Users\Adam\source\repos\OOP\Ferivelgyak\obj\Debug\Ferivelgyak.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\OOP\Ferivelgyak\obj\Debug\Ferivelgyak.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\OOP\Ferivelgyak\obj\Debug\Ferivelgyak.exe
+C:\Users\Adam\source\repos\OOP\Ferivelgyak\obj\Debug\Ferivelgyak.pdb
+C:\Users\Adam\source\repos\OOP\Ferivelgyak\bin\Debug\Osztalyterem.txt

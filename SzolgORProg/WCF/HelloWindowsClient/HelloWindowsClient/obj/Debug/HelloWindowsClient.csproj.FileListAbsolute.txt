@@ -1,0 +1,10 @@
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe.config
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.exe
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\bin\Debug\HelloWindowsClient.pdb
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Form1.resources
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.Properties.Resources.resources
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.exe
+C:\Users\Adam\source\repos\HelloWindowsClient\HelloWindowsClient\obj\Debug\HelloWindowsClient.pdb

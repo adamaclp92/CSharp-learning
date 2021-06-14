@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprogr2\bin\Debug\Magasprogr2.exe.config
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprogr2\bin\Debug\Magasprogr2.exe
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprogr2\bin\Debug\Magasprogr2.pdb
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprogr2\obj\Debug\Magasprogr2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprogr2\obj\Debug\Magasprogr2.exe
+C:\Users\user\Desktop\Ragoa\Magasprogr2\Magasprogr2\obj\Debug\Magasprogr2.pdb
+D:\Fájlok\C# programok\2szemeszter\Ragoa\Magasprogr2\Magasprogr2\bin\Debug\Magasprogr2.exe.config
+D:\Fájlok\C# programok\2szemeszter\Ragoa\Magasprogr2\Magasprogr2\bin\Debug\Magasprogr2.exe
+D:\Fájlok\C# programok\2szemeszter\Ragoa\Magasprogr2\Magasprogr2\bin\Debug\Magasprogr2.pdb
+D:\Fájlok\C# programok\2szemeszter\Ragoa\Magasprogr2\Magasprogr2\obj\Debug\Magasprogr2.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Ragoa\Magasprogr2\Magasprogr2\obj\Debug\Magasprogr2.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Ragoa\Magasprogr2\Magasprogr2\obj\Debug\Magasprogr2.exe
+D:\Fájlok\C# programok\2szemeszter\Ragoa\Magasprogr2\Magasprogr2\obj\Debug\Magasprogr2.pdb

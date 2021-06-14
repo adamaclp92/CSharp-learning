@@ -1,0 +1,19 @@
+FÜGGVÉNY Osszead(Pakli: SOROZAT): ELEMTÍPUS;
+VÁLTOZÓK
+	I: EGÉSZ; S: ELEMTÍPUS;
+ALGORITMUS
+	S <- 0;
+	CIKLUS I <- (1..Pakli.ElemSzám)
+		S <- Pakli[I];
+	CVÉGE;
+	Osszead <- S;
+FVÉGE;
+
+FÜGGVÉNY OsszeadRek(Pakli: SOROZAT, I: EGÉSZ): ELEMTÍPUS;
+ALGORITMUS
+	HA (I = Pakli.ElemSzám) AKKOR
+		OsszeadRek <- Pakli[i];
+	KÜLÖNBEN
+		OsszeadRek <- Pakli[I] + OsszeadRek(Pakli, I + 1);
+	HVÉGE;
+FVÉGE;

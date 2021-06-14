@@ -1,0 +1,7 @@
+E:\Fájlok\C# programok\testtt\Szemafor\bin\Debug\Szemafor.exe.config
+E:\Fájlok\C# programok\testtt\Szemafor\bin\Debug\Szemafor.exe
+E:\Fájlok\C# programok\testtt\Szemafor\bin\Debug\Szemafor.pdb
+E:\Fájlok\C# programok\testtt\Szemafor\obj\Debug\Szemafor.csprojAssemblyReference.cache
+E:\Fájlok\C# programok\testtt\Szemafor\obj\Debug\Szemafor.csproj.CoreCompileInputs.cache
+E:\Fájlok\C# programok\testtt\Szemafor\obj\Debug\Szemafor.exe
+E:\Fájlok\C# programok\testtt\Szemafor\obj\Debug\Szemafor.pdb

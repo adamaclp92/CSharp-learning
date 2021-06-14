@@ -1,0 +1,6 @@
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Rekurzio_2\bin\Debug\Rekurzio_2.exe.config
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Rekurzio_2\bin\Debug\Rekurzio_2.exe
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Rekurzio_2\bin\Debug\Rekurzio_2.pdb
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Rekurzio_2\obj\Debug\Rekurzio_2.csprojResolveAssemblyReference.cache
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Rekurzio_2\obj\Debug\Rekurzio_2.exe
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Rekurzio_2\obj\Debug\Rekurzio_2.pdb

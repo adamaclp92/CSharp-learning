@@ -1,0 +1,14 @@
+D:\NAGYISKOLA\PTI FOSZ\Magassz.Programozási GYAK\HÁZIfeladatok\3házi\harmadik\harmadik\bin\Debug\harmadik.exe.config
+D:\NAGYISKOLA\PTI FOSZ\Magassz.Programozási GYAK\HÁZIfeladatok\3házi\harmadik\harmadik\bin\Debug\harmadik.exe
+D:\NAGYISKOLA\PTI FOSZ\Magassz.Programozási GYAK\HÁZIfeladatok\3házi\harmadik\harmadik\bin\Debug\harmadik.pdb
+D:\NAGYISKOLA\PTI FOSZ\Magassz.Programozási GYAK\HÁZIfeladatok\3házi\harmadik\harmadik\obj\Debug\harmadik.csprojAssemblyReference.cache
+D:\NAGYISKOLA\PTI FOSZ\Magassz.Programozási GYAK\HÁZIfeladatok\3házi\harmadik\harmadik\obj\Debug\harmadik.csproj.CoreCompileInputs.cache
+D:\NAGYISKOLA\PTI FOSZ\Magassz.Programozási GYAK\HÁZIfeladatok\3házi\harmadik\harmadik\obj\Debug\harmadik.exe
+D:\NAGYISKOLA\PTI FOSZ\Magassz.Programozási GYAK\HÁZIfeladatok\3házi\harmadik\harmadik\obj\Debug\harmadik.pdb
+d:\Fájlok\C# programok\harmadik\harmadik\bin\Debug\harmadik.exe.config
+d:\Fájlok\C# programok\harmadik\harmadik\bin\Debug\harmadik.exe
+d:\Fájlok\C# programok\harmadik\harmadik\bin\Debug\harmadik.pdb
+d:\Fájlok\C# programok\harmadik\harmadik\obj\Debug\harmadik.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\harmadik\harmadik\obj\Debug\harmadik.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\harmadik\harmadik\obj\Debug\harmadik.exe
+d:\Fájlok\C# programok\harmadik\harmadik\obj\Debug\harmadik.pdb

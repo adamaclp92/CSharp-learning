@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\RÁ\Algogyak_3\j_feladat\bin\Debug\j_feladat.exe.config
+C:\Users\user\Desktop\RÁ\Algogyak_3\j_feladat\bin\Debug\j_feladat.exe
+C:\Users\user\Desktop\RÁ\Algogyak_3\j_feladat\bin\Debug\j_feladat.pdb
+C:\Users\user\Desktop\RÁ\Algogyak_3\j_feladat\obj\Debug\j_feladat.exe
+C:\Users\user\Desktop\RÁ\Algogyak_3\j_feladat\obj\Debug\j_feladat.pdb
+C:\Users\user\Desktop\RÁ\Algogyak_3\j_feladat\obj\Debug\j_feladat.csprojResolveAssemblyReference.cache

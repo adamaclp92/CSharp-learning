@@ -1,0 +1,12 @@
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat3\bin\Debug\Feladat3.exe.config
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat3\bin\Debug\Feladat3.exe
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat3\bin\Debug\Feladat3.pdb
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat3\obj\Debug\Feladat3.exe
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat3\obj\Debug\Feladat3.pdb
+d:\Fájlok\C# programok\ZH_RagoAdam\Feladat3\bin\Debug\Feladat3.exe.config
+d:\Fájlok\C# programok\ZH_RagoAdam\Feladat3\bin\Debug\Feladat3.exe
+d:\Fájlok\C# programok\ZH_RagoAdam\Feladat3\bin\Debug\Feladat3.pdb
+d:\Fájlok\C# programok\ZH_RagoAdam\Feladat3\obj\Debug\Feladat3.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\ZH_RagoAdam\Feladat3\obj\Debug\Feladat3.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\ZH_RagoAdam\Feladat3\obj\Debug\Feladat3.exe
+d:\Fájlok\C# programok\ZH_RagoAdam\Feladat3\obj\Debug\Feladat3.pdb

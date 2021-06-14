@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\bin\Debug\netcoreapp2.1\Kozos_valtozok.deps.json
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\bin\Debug\netcoreapp2.1\Kozos_valtozok.runtimeconfig.json
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\bin\Debug\netcoreapp2.1\Kozos_valtozok.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\bin\Debug\netcoreapp2.1\Kozos_valtozok.dll
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\bin\Debug\netcoreapp2.1\Kozos_valtozok.pdb
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\obj\Debug\netcoreapp2.1\Kozos_valtozok.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\obj\Debug\netcoreapp2.1\Kozos_valtozok.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\obj\Debug\netcoreapp2.1\Kozos_valtozok.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\obj\Debug\netcoreapp2.1\Kozos_valtozok.AssemblyInfo.cs
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\obj\Debug\netcoreapp2.1\Kozos_valtozok.dll
+C:\Users\Adam\source\repos\SZOP\Kozos_valtozok\obj\Debug\netcoreapp2.1\Kozos_valtozok.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Algo2\bin\Debug\Algo2.exe.config
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Algo2\bin\Debug\Algo2.exe
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Algo2\bin\Debug\Algo2.pdb
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Algo2\obj\Debug\Algo2.csprojResolveAssemblyReference.cache
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Algo2\obj\Debug\Algo2.exe
+C:\Users\Hallgató\Desktop\RÁ\Algo2\Algo2\obj\Debug\Algo2.pdb

@@ -1,0 +1,8 @@
+D:\Fájlok\C# programok\2szemeszter\Monitors\Monitors\Monitors\bin\Debug\StudioMonitors.csv
+D:\Fájlok\C# programok\2szemeszter\Monitors\Monitors\Monitors\bin\Debug\Monitors.exe.config
+D:\Fájlok\C# programok\2szemeszter\Monitors\Monitors\Monitors\bin\Debug\Monitors.exe
+D:\Fájlok\C# programok\2szemeszter\Monitors\Monitors\Monitors\bin\Debug\Monitors.pdb
+D:\Fájlok\C# programok\2szemeszter\Monitors\Monitors\Monitors\obj\Debug\Monitors.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Monitors\Monitors\Monitors\obj\Debug\Monitors.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Monitors\Monitors\Monitors\obj\Debug\Monitors.exe
+D:\Fájlok\C# programok\2szemeszter\Monitors\Monitors\Monitors\obj\Debug\Monitors.pdb

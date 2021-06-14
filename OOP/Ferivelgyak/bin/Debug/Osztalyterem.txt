@@ -1,0 +1,4 @@
+﻿Kovács;Béla;1992;barna;90
+Kiss;Jenő;1995;szőke;20
+Nagy;Juli;1991;vörös;90;zöld
+Kis;Éva;1990;kék;20;kék

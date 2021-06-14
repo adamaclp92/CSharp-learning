@@ -1,0 +1,6 @@
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Kereses\bin\Debug\Kereses.exe.config
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Kereses\bin\Debug\Kereses.exe
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Kereses\bin\Debug\Kereses.pdb
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Kereses\obj\Debug\Kereses.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Kereses\obj\Debug\Kereses.exe
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\Kereses\Kereses\Kereses\obj\Debug\Kereses.pdb

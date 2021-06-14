@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magasprog_2_3", "magasprog_2_3\magasprog_2_3.csproj", "{BA55B75B-B70A-41B6-8ACD-D5A73622FD18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA55B75B-B70A-41B6-8ACD-D5A73622FD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA55B75B-B70A-41B6-8ACD-D5A73622FD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA55B75B-B70A-41B6-8ACD-D5A73622FD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA55B75B-B70A-41B6-8ACD-D5A73622FD18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AB3834-FB10-4145-8FD3-D69A7F38D26C}
+	EndGlobalSection
+EndGlobal

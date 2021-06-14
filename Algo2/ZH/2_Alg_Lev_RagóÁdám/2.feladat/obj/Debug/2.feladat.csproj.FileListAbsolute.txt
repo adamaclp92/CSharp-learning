@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\2.feladat\bin\Debug\2.feladat.exe.config
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\2.feladat\bin\Debug\2.feladat.exe
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\2.feladat\bin\Debug\2.feladat.pdb
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\2.feladat\obj\Debug\2.feladat.exe
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\2.feladat\obj\Debug\2.feladat.pdb
+C:\Users\user\Desktop\RA\Ragó_Ádám_zh\2.feladat\obj\Debug\2.feladat.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\Algo2\ZH\2_Alg_Lev_RagóÁdám\2.feladat\bin\Debug\2.feladat.exe.config
+C:\Users\Adam\Desktop\Algo2\ZH\2_Alg_Lev_RagóÁdám\2.feladat\bin\Debug\2.feladat.exe
+C:\Users\Adam\Desktop\Algo2\ZH\2_Alg_Lev_RagóÁdám\2.feladat\bin\Debug\2.feladat.pdb
+C:\Users\Adam\Desktop\Algo2\ZH\2_Alg_Lev_RagóÁdám\2.feladat\obj\Debug\2.feladat.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Algo2\ZH\2_Alg_Lev_RagóÁdám\2.feladat\obj\Debug\2.feladat.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Algo2\ZH\2_Alg_Lev_RagóÁdám\2.feladat\obj\Debug\2.feladat.exe
+C:\Users\Adam\Desktop\Algo2\ZH\2_Alg_Lev_RagóÁdám\2.feladat\obj\Debug\2.feladat.pdb

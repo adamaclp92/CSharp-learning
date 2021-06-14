@@ -1,0 +1,7 @@
+c:\users\neuma\source\repos\Rokonsag\Rokonsag\bin\Debug\Rokonsag.exe.config
+c:\users\neuma\source\repos\Rokonsag\Rokonsag\bin\Debug\Rokonsag.exe
+c:\users\neuma\source\repos\Rokonsag\Rokonsag\bin\Debug\Rokonsag.pdb
+c:\users\neuma\source\repos\Rokonsag\Rokonsag\obj\Debug\Rokonsag.csprojAssemblyReference.cache
+c:\users\neuma\source\repos\Rokonsag\Rokonsag\obj\Debug\Rokonsag.csproj.CoreCompileInputs.cache
+c:\users\neuma\source\repos\Rokonsag\Rokonsag\obj\Debug\Rokonsag.exe
+c:\users\neuma\source\repos\Rokonsag\Rokonsag\obj\Debug\Rokonsag.pdb

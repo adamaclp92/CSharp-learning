@@ -1,0 +1,7 @@
+C:\Users\Adam\source\repos\HelloService\HelloService\bin\HelloService.dll.config
+C:\Users\Adam\source\repos\HelloService\HelloService\bin\HelloService.dll
+C:\Users\Adam\source\repos\HelloService\HelloService\bin\HelloService.pdb
+C:\Users\Adam\source\repos\HelloService\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\HelloService\HelloService\obj\Debug\HelloService.dll
+C:\Users\Adam\source\repos\HelloService\HelloService\obj\Debug\HelloService.pdb
+C:\Users\Adam\source\repos\HelloService\HelloService\obj\Debug\HelloService.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Troll\_2018_19_MPI_LEV_A\04_PozitivNegativ\04_PozitivNegativ\bin\Debug\04_PozitivNegativ.exe.config
+D:\Troll\_2018_19_MPI_LEV_A\04_PozitivNegativ\04_PozitivNegativ\bin\Debug\04_PozitivNegativ.exe
+D:\Troll\_2018_19_MPI_LEV_A\04_PozitivNegativ\04_PozitivNegativ\bin\Debug\04_PozitivNegativ.pdb
+D:\Troll\_2018_19_MPI_LEV_A\04_PozitivNegativ\04_PozitivNegativ\obj\Debug\04_PozitivNegativ.csprojResolveAssemblyReference.cache
+D:\Troll\_2018_19_MPI_LEV_A\04_PozitivNegativ\04_PozitivNegativ\obj\Debug\04_PozitivNegativ.exe
+D:\Troll\_2018_19_MPI_LEV_A\04_PozitivNegativ\04_PozitivNegativ\obj\Debug\04_PozitivNegativ.pdb

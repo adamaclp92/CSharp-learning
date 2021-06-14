@@ -1,0 +1,13 @@
+D:\Nyiro_Mate\ZH_Elotti_Feladat\ZH_Elotti_Feladat\bin\Debug\ZH_Elotti_Feladat.exe.config
+D:\Nyiro_Mate\ZH_Elotti_Feladat\ZH_Elotti_Feladat\bin\Debug\ZH_Elotti_Feladat.exe
+D:\Nyiro_Mate\ZH_Elotti_Feladat\ZH_Elotti_Feladat\bin\Debug\ZH_Elotti_Feladat.pdb
+D:\Nyiro_Mate\ZH_Elotti_Feladat\ZH_Elotti_Feladat\obj\Debug\ZH_Elotti_Feladat.csprojResolveAssemblyReference.cache
+D:\Nyiro_Mate\ZH_Elotti_Feladat\ZH_Elotti_Feladat\obj\Debug\ZH_Elotti_Feladat.exe
+D:\Nyiro_Mate\ZH_Elotti_Feladat\ZH_Elotti_Feladat\obj\Debug\ZH_Elotti_Feladat.pdb
+d:\Fájlok\C# programok\Magasszintű programozási nyelvek I. gy. LBT_IM813G2_\ZH_Elotti_Feladat\ZH_Elotti_Feladat\bin\Debug\ZH_Elotti_Feladat.exe.config
+d:\Fájlok\C# programok\Magasszintű programozási nyelvek I. gy. LBT_IM813G2_\ZH_Elotti_Feladat\ZH_Elotti_Feladat\bin\Debug\ZH_Elotti_Feladat.exe
+d:\Fájlok\C# programok\Magasszintű programozási nyelvek I. gy. LBT_IM813G2_\ZH_Elotti_Feladat\ZH_Elotti_Feladat\bin\Debug\ZH_Elotti_Feladat.pdb
+d:\Fájlok\C# programok\Magasszintű programozási nyelvek I. gy. LBT_IM813G2_\ZH_Elotti_Feladat\ZH_Elotti_Feladat\obj\Debug\ZH_Elotti_Feladat.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\Magasszintű programozási nyelvek I. gy. LBT_IM813G2_\ZH_Elotti_Feladat\ZH_Elotti_Feladat\obj\Debug\ZH_Elotti_Feladat.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\Magasszintű programozási nyelvek I. gy. LBT_IM813G2_\ZH_Elotti_Feladat\ZH_Elotti_Feladat\obj\Debug\ZH_Elotti_Feladat.exe
+d:\Fájlok\C# programok\Magasszintű programozási nyelvek I. gy. LBT_IM813G2_\ZH_Elotti_Feladat\ZH_Elotti_Feladat\obj\Debug\ZH_Elotti_Feladat.pdb

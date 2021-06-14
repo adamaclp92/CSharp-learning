@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Algogyak\bin\Debug\Algogyak.exe.config
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Algogyak\bin\Debug\Algogyak.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Algogyak\bin\Debug\Algogyak.pdb
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Algogyak\obj\Debug\Algogyak.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Algogyak\obj\Debug\Algogyak.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Algogyak\obj\Debug\Algogyak.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Algogyak\obj\Debug\Algogyak.pdb

@@ -1,0 +1,10 @@
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\bin\Debug\SZOP_3_szamologep.exe.config
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\bin\Debug\SZOP_3_szamologep.exe
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\bin\Debug\SZOP_3_szamologep.pdb
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\bin\Debug\szamologepsz.dll
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\bin\Debug\szamologepsz.pdb
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\obj\Debug\SZOP_3_szamologep.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\obj\Debug\SZOP_3_szamologep.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\obj\Debug\SZOP_3_szamologep.csproj.CopyComplete
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\obj\Debug\SZOP_3_szamologep.exe
+C:\Users\Adam\source\repos\SZOP_3_szamologep\SZOP_3_szamologep\obj\Debug\SZOP_3_szamologep.pdb

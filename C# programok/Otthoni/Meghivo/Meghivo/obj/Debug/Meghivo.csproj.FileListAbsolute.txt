@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\Meghivo\Meghivo\obj\Debug\Meghivo.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\Meghivo\Meghivo\obj\Debug\Meghivo.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\Meghivo\Meghivo\bin\Debug\Meghivo.exe.config
+D:\Fájlok\C# programok\Otthoni\Meghivo\Meghivo\bin\Debug\Meghivo.exe
+D:\Fájlok\C# programok\Otthoni\Meghivo\Meghivo\bin\Debug\Meghivo.pdb
+D:\Fájlok\C# programok\Otthoni\Meghivo\Meghivo\obj\Debug\Meghivo.exe
+D:\Fájlok\C# programok\Otthoni\Meghivo\Meghivo\obj\Debug\Meghivo.pdb

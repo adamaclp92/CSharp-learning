@@ -1,0 +1,10 @@
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\bin\Debug\netcoreapp2.1\Kozos_eroforras.deps.json
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\bin\Debug\netcoreapp2.1\Kozos_eroforras.runtimeconfig.json
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\bin\Debug\netcoreapp2.1\Kozos_eroforras.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\bin\Debug\netcoreapp2.1\Kozos_eroforras.dll
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\bin\Debug\netcoreapp2.1\Kozos_eroforras.pdb
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\obj\Debug\netcoreapp2.1\Kozos_eroforras.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\obj\Debug\netcoreapp2.1\Kozos_eroforras.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\obj\Debug\netcoreapp2.1\Kozos_eroforras.AssemblyInfo.cs
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\obj\Debug\netcoreapp2.1\Kozos_eroforras.dll
+C:\Users\Adam\source\repos\SZOP\Kozos_eroforras\obj\Debug\netcoreapp2.1\Kozos_eroforras.pdb

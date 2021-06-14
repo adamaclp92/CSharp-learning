@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\bin\Debug\HelloService.dll.config
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CopyComplete
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\Users\Adam\source\repos\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

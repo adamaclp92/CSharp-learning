@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\Gyakorló\Gyakorló\bin\Debug\Gyakorló.exe.config
+D:\Fájlok\C# programok\Otthoni\Gyakorló\Gyakorló\bin\Debug\Gyakorló.exe
+D:\Fájlok\C# programok\Otthoni\Gyakorló\Gyakorló\bin\Debug\Gyakorló.pdb
+D:\Fájlok\C# programok\Otthoni\Gyakorló\Gyakorló\obj\Debug\Gyakorló.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\Gyakorló\Gyakorló\obj\Debug\Gyakorló.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\Gyakorló\Gyakorló\obj\Debug\Gyakorló.exe
+D:\Fájlok\C# programok\Otthoni\Gyakorló\Gyakorló\obj\Debug\Gyakorló.pdb

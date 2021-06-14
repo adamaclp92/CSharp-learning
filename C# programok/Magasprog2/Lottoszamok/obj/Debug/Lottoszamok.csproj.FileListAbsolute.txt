@@ -1,0 +1,5 @@
+D:\Ragó Ádám1992\Magasprog2\Lottoszamok\bin\Debug\Lottoszamok.exe.config
+D:\Ragó Ádám1992\Magasprog2\Lottoszamok\bin\Debug\Lottoszamok.exe
+D:\Ragó Ádám1992\Magasprog2\Lottoszamok\bin\Debug\Lottoszamok.pdb
+D:\Ragó Ádám1992\Magasprog2\Lottoszamok\obj\Debug\Lottoszamok.exe
+D:\Ragó Ádám1992\Magasprog2\Lottoszamok\obj\Debug\Lottoszamok.pdb

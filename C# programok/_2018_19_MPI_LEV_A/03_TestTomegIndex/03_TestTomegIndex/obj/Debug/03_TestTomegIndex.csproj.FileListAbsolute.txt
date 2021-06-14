@@ -1,0 +1,6 @@
+D:\Troll\_2018_19_MPI_LEV_A\03_TestTomegIndex\03_TestTomegIndex\bin\Debug\03_TestTomegIndex.exe.config
+D:\Troll\_2018_19_MPI_LEV_A\03_TestTomegIndex\03_TestTomegIndex\bin\Debug\03_TestTomegIndex.exe
+D:\Troll\_2018_19_MPI_LEV_A\03_TestTomegIndex\03_TestTomegIndex\bin\Debug\03_TestTomegIndex.pdb
+D:\Troll\_2018_19_MPI_LEV_A\03_TestTomegIndex\03_TestTomegIndex\obj\Debug\03_TestTomegIndex.exe
+D:\Troll\_2018_19_MPI_LEV_A\03_TestTomegIndex\03_TestTomegIndex\obj\Debug\03_TestTomegIndex.pdb
+d:\Troll\_2018_19_MPI_LEV_A\03_TestTomegIndex\03_TestTomegIndex\obj\Debug\03_TestTomegIndex.csprojResolveAssemblyReference.cache

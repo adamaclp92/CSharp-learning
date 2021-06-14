@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\SzinSugo\SzinSugo\bin\Debug\SzinSugo.exe.config
+D:\Fájlok\C# programok\Otthoni\SzinSugo\SzinSugo\bin\Debug\SzinSugo.exe
+D:\Fájlok\C# programok\Otthoni\SzinSugo\SzinSugo\bin\Debug\SzinSugo.pdb
+D:\Fájlok\C# programok\Otthoni\SzinSugo\SzinSugo\obj\Debug\SzinSugo.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\SzinSugo\SzinSugo\obj\Debug\SzinSugo.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\SzinSugo\SzinSugo\obj\Debug\SzinSugo.exe
+D:\Fájlok\C# programok\Otthoni\SzinSugo\SzinSugo\obj\Debug\SzinSugo.pdb

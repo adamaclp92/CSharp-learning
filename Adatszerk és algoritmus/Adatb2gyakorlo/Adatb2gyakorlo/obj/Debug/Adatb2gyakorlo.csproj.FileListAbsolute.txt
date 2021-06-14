@@ -1,0 +1,7 @@
+C:\Users\Adam\source\repos\Adatb2gyakorlo\Adatb2gyakorlo\bin\Debug\Adatb2gyakorlo.exe.config
+C:\Users\Adam\source\repos\Adatb2gyakorlo\Adatb2gyakorlo\bin\Debug\Adatb2gyakorlo.exe
+C:\Users\Adam\source\repos\Adatb2gyakorlo\Adatb2gyakorlo\bin\Debug\Adatb2gyakorlo.pdb
+C:\Users\Adam\source\repos\Adatb2gyakorlo\Adatb2gyakorlo\obj\Debug\Adatb2gyakorlo.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Adatb2gyakorlo\Adatb2gyakorlo\obj\Debug\Adatb2gyakorlo.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Adatb2gyakorlo\Adatb2gyakorlo\obj\Debug\Adatb2gyakorlo.exe
+C:\Users\Adam\source\repos\Adatb2gyakorlo\Adatb2gyakorlo\obj\Debug\Adatb2gyakorlo.pdb

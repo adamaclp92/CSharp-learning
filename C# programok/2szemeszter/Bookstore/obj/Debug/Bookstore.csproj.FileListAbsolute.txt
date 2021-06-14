@@ -1,0 +1,16 @@
+C:\Users\ragoa\Desktop\Bookstore\bin\Debug\aruk.txt
+C:\Users\ragoa\Desktop\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\ragoa\Desktop\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\ragoa\Desktop\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\ragoa\Desktop\Bookstore\obj\Debug\Bookstore.csprojAssemblyReference.cache
+C:\Users\ragoa\Desktop\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\ragoa\Desktop\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\ragoa\Desktop\Bookstore\obj\Debug\Bookstore.pdb
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Bookstore\bin\Debug\aruk.txt
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Bookstore\bin\Debug\Bookstore.exe.config
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Bookstore\bin\Debug\Bookstore.exe
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Bookstore\bin\Debug\Bookstore.pdb
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Bookstore\obj\Debug\Bookstore.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Bookstore\obj\Debug\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Bookstore\obj\Debug\Bookstore.exe
+C:\Users\Adam\source\repos\C# programok\2szemeszter\Bookstore\obj\Debug\Bookstore.pdb

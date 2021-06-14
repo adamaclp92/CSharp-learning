@@ -1,0 +1,7 @@
+d:\Fájlok\C# programok\2szemeszter\Konyvespolc_Ragó Ádám\Konyvespolc\bin\Debug\Konyvespolc.exe.config
+d:\Fájlok\C# programok\2szemeszter\Konyvespolc_Ragó Ádám\Konyvespolc\bin\Debug\Konyvespolc.exe
+d:\Fájlok\C# programok\2szemeszter\Konyvespolc_Ragó Ádám\Konyvespolc\bin\Debug\Konyvespolc.pdb
+d:\Fájlok\C# programok\2szemeszter\Konyvespolc_Ragó Ádám\Konyvespolc\obj\Debug\Bookshelf.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\2szemeszter\Konyvespolc_Ragó Ádám\Konyvespolc\obj\Debug\Bookshelf.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\2szemeszter\Konyvespolc_Ragó Ádám\Konyvespolc\obj\Debug\Konyvespolc.exe
+d:\Fájlok\C# programok\2szemeszter\Konyvespolc_Ragó Ádám\Konyvespolc\obj\Debug\Konyvespolc.pdb

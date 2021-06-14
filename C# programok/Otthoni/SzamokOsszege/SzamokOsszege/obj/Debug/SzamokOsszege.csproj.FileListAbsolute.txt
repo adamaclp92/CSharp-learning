@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\SzamokOsszege\SzamokOsszege\bin\Debug\SzamokOsszege.exe.config
+D:\Fájlok\C# programok\Otthoni\SzamokOsszege\SzamokOsszege\bin\Debug\SzamokOsszege.exe
+D:\Fájlok\C# programok\Otthoni\SzamokOsszege\SzamokOsszege\bin\Debug\SzamokOsszege.pdb
+D:\Fájlok\C# programok\Otthoni\SzamokOsszege\SzamokOsszege\obj\Debug\SzamokOsszege.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\SzamokOsszege\SzamokOsszege\obj\Debug\SzamokOsszege.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\SzamokOsszege\SzamokOsszege\obj\Debug\SzamokOsszege.exe
+D:\Fájlok\C# programok\Otthoni\SzamokOsszege\SzamokOsszege\obj\Debug\SzamokOsszege.pdb

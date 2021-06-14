@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\SZOP\SZOP\bin\Debug\netcoreapp2.1\1_lecke.deps.json
+C:\Users\Adam\source\repos\SZOP\SZOP\bin\Debug\netcoreapp2.1\1_lecke.runtimeconfig.json
+C:\Users\Adam\source\repos\SZOP\SZOP\bin\Debug\netcoreapp2.1\1_lecke.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\SZOP\SZOP\bin\Debug\netcoreapp2.1\1_lecke.dll
+C:\Users\Adam\source\repos\SZOP\SZOP\bin\Debug\netcoreapp2.1\1_lecke.pdb
+C:\Users\Adam\source\repos\SZOP\SZOP\obj\Debug\netcoreapp2.1\1_lecke.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\SZOP\SZOP\obj\Debug\netcoreapp2.1\1_lecke.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\SZOP\SZOP\obj\Debug\netcoreapp2.1\1_lecke.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\SZOP\SZOP\obj\Debug\netcoreapp2.1\1_lecke.AssemblyInfo.cs
+C:\Users\Adam\source\repos\SZOP\SZOP\obj\Debug\netcoreapp2.1\1_lecke.dll
+C:\Users\Adam\source\repos\SZOP\SZOP\obj\Debug\netcoreapp2.1\1_lecke.pdb

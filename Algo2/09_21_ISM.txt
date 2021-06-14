@@ -1,0 +1,41 @@
+ELJÁRÁS Osszefuttat(A_: SOROZAT, B_: SOROZAT, C_: SOROZAT);
+VÁLTOZÓK
+	AI: EGÉSZ;
+	BI: EGÉSZ;
+	CI: EGÉSZ;
+ALGORITMUS
+	AI <- 1;
+	BI <- 1;
+	CI <- 0;
+	CIKLUS_AMÍG (AI <= A.ElemSzám) ÉS (BI <= B.ElemSzám)
+		CI <- CI + 1;
+		HA (A[AI] < B[BI]) AKKOR
+			C[CI] <- A[AI];
+			AI <- AI + 1;
+		KÜLÖNBEN
+			HA (B[BI] < A[AI]) AKKOR
+				C[CI] <- B[BI];
+				BI <- BI + 1;
+			KÜLÖNBEN
+				C[CI] <- A[AI];
+				AI <- AI + 1;
+				CI <- CI + 1;
+				
+				C[CI] <- B[BI];
+				BI <- BI + 1;
+			HVÉGE;
+		HVÉGE;
+	CVÉGE;
+	
+	CIKLUS_AMÍG (AI <= A.ElemSzám)
+		CI <- CI + 1;
+		C[CI] <- A[AI];
+		AI <- AI + 1;
+	CVÉGE;
+	
+	CIKLUS_AMÍG (BI <= B.ElemSzám)
+		CI <- CI + 1;
+		C[CI] <- B[BI];
+		BI <- BI + 1;
+	CVÉGE;
+EVÉGE;

@@ -1,0 +1,27 @@
+FÜGGVÉNY FiboIterativ(n: EGÉSZ): EGÉSZ;
+VÁLTOZÓK
+	Akt: EGÉSZ;
+	Elozo: EGÉSZ;
+	Elozobb: EGÉSZ;
+	I: EGÉSZ;
+ALGORITMUS
+	Elozo <- 0;
+	Akt <- 1;
+	CIKLUS I <- (1..n-1)
+		Elozobb <- Elozo;
+		Elozo <- Akt;
+		Akt <- Elozo + Elozobb;
+	CVÉGE;
+	FiboIterativ <- Akt;
+FVÉGE;
+
+FÜGGVÉNY Fibo(n: EGÉSZ): EGÉSZ;
+ALGORITMUS
+	HA n = 0 AKKOR
+		Fibo <- 0;
+	KÜLÖNBEN HA n = 1 AKKOR
+		Fibo <- 1;
+	KÜLÖNBEN
+		Fibo <- Fibo(n - 1) + Fibo(n - 2);
+	HVÉGE;
+FVÉGE;

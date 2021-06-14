@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\Students\Adoazonosito\Adoazonosito\obj\Debug\Adoazonosito.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Students\Adoazonosito\Adoazonosito\obj\Debug\Adoazonosito.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Students\Adoazonosito\Adoazonosito\bin\Debug\Adoazonosito.exe.config
+D:\Fájlok\C# programok\2szemeszter\Students\Adoazonosito\Adoazonosito\bin\Debug\Adoazonosito.exe
+D:\Fájlok\C# programok\2szemeszter\Students\Adoazonosito\Adoazonosito\bin\Debug\Adoazonosito.pdb
+D:\Fájlok\C# programok\2szemeszter\Students\Adoazonosito\Adoazonosito\obj\Debug\Adoazonosito.exe
+D:\Fájlok\C# programok\2szemeszter\Students\Adoazonosito\Adoazonosito\obj\Debug\Adoazonosito.pdb

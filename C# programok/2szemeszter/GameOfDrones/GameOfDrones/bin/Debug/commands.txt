@@ -1,0 +1,7 @@
+﻿3127;Fly;8,8;-1
+3127;Photo;InfraRed
+3127;Photo;UltraViolet
+3127;Photo;InfraRed
+111;Fly;5;0
+111;Shoot;3127
+10934;Photo;Thermal

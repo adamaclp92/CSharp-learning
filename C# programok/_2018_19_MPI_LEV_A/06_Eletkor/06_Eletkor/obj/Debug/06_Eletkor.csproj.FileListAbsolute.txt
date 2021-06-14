@@ -1,0 +1,5 @@
+D:\Troll\_2018_19_MPI_LEV_A\06_Eletkor\06_Eletkor\bin\Debug\06_Eletkor.exe.config
+D:\Troll\_2018_19_MPI_LEV_A\06_Eletkor\06_Eletkor\bin\Debug\06_Eletkor.exe
+D:\Troll\_2018_19_MPI_LEV_A\06_Eletkor\06_Eletkor\bin\Debug\06_Eletkor.pdb
+D:\Troll\_2018_19_MPI_LEV_A\06_Eletkor\06_Eletkor\obj\Debug\06_Eletkor.exe
+D:\Troll\_2018_19_MPI_LEV_A\06_Eletkor\06_Eletkor\obj\Debug\06_Eletkor.pdb

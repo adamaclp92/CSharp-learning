@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\SZOP\tobbszal\bin\Debug\netcoreapp2.1\tobbszal.deps.json
+C:\Users\Adam\source\repos\SZOP\tobbszal\bin\Debug\netcoreapp2.1\tobbszal.runtimeconfig.json
+C:\Users\Adam\source\repos\SZOP\tobbszal\bin\Debug\netcoreapp2.1\tobbszal.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\SZOP\tobbszal\bin\Debug\netcoreapp2.1\tobbszal.dll
+C:\Users\Adam\source\repos\SZOP\tobbszal\bin\Debug\netcoreapp2.1\tobbszal.pdb
+C:\Users\Adam\source\repos\SZOP\tobbszal\obj\Debug\netcoreapp2.1\tobbszal.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\SZOP\tobbszal\obj\Debug\netcoreapp2.1\tobbszal.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\SZOP\tobbszal\obj\Debug\netcoreapp2.1\tobbszal.AssemblyInfo.cs
+C:\Users\Adam\source\repos\SZOP\tobbszal\obj\Debug\netcoreapp2.1\tobbszal.dll
+C:\Users\Adam\source\repos\SZOP\tobbszal\obj\Debug\netcoreapp2.1\tobbszal.pdb
+C:\Users\Adam\source\repos\SZOP\tobbszal\obj\Debug\netcoreapp2.1\tobbszal.csprojAssemblyReference.cache

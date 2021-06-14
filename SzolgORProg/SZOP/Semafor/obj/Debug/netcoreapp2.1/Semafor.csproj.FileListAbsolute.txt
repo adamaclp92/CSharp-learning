@@ -1,0 +1,10 @@
+C:\Users\Adam\source\repos\SZOP\Semafor\bin\Debug\netcoreapp2.1\Semafor.deps.json
+C:\Users\Adam\source\repos\SZOP\Semafor\bin\Debug\netcoreapp2.1\Semafor.runtimeconfig.json
+C:\Users\Adam\source\repos\SZOP\Semafor\bin\Debug\netcoreapp2.1\Semafor.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\SZOP\Semafor\bin\Debug\netcoreapp2.1\Semafor.dll
+C:\Users\Adam\source\repos\SZOP\Semafor\bin\Debug\netcoreapp2.1\Semafor.pdb
+C:\Users\Adam\source\repos\SZOP\Semafor\obj\Debug\netcoreapp2.1\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\SZOP\Semafor\obj\Debug\netcoreapp2.1\Semafor.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\SZOP\Semafor\obj\Debug\netcoreapp2.1\Semafor.AssemblyInfo.cs
+C:\Users\Adam\source\repos\SZOP\Semafor\obj\Debug\netcoreapp2.1\Semafor.dll
+C:\Users\Adam\source\repos\SZOP\Semafor\obj\Debug\netcoreapp2.1\Semafor.pdb

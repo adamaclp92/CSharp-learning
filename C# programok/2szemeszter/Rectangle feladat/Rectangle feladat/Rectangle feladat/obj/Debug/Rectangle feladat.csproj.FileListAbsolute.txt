@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\Rectangle feladat\Rectangle feladat\Rectangle feladat\bin\Debug\Rectangle feladat.exe.config
+D:\Fájlok\C# programok\2szemeszter\Rectangle feladat\Rectangle feladat\Rectangle feladat\bin\Debug\Rectangle feladat.exe
+D:\Fájlok\C# programok\2szemeszter\Rectangle feladat\Rectangle feladat\Rectangle feladat\bin\Debug\Rectangle feladat.pdb
+D:\Fájlok\C# programok\2szemeszter\Rectangle feladat\Rectangle feladat\Rectangle feladat\obj\Debug\Rectangle feladat.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Rectangle feladat\Rectangle feladat\Rectangle feladat\obj\Debug\Rectangle feladat.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Rectangle feladat\Rectangle feladat\Rectangle feladat\obj\Debug\Rectangle feladat.exe
+D:\Fájlok\C# programok\2szemeszter\Rectangle feladat\Rectangle feladat\Rectangle feladat\obj\Debug\Rectangle feladat.pdb

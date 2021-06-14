@@ -1,0 +1,7 @@
+D:\Troll\MagProg2_2018_19_LEV_E\03_Vilagmindenseg\bin\Debug\03_Vilagmindenseg.exe.config
+D:\Troll\MagProg2_2018_19_LEV_E\03_Vilagmindenseg\obj\Debug\03_Vilagmindenseg.csprojResolveAssemblyReference.cache
+D:\Troll\MagProg2_2018_19_LEV_E\03_Vilagmindenseg\bin\Debug\03_Vilagmindenseg.exe
+D:\Troll\MagProg2_2018_19_LEV_E\03_Vilagmindenseg\bin\Debug\03_Vilagmindenseg.pdb
+D:\Troll\MagProg2_2018_19_LEV_E\03_Vilagmindenseg\obj\Debug\03_Vilagmindenseg.exe
+D:\Troll\MagProg2_2018_19_LEV_E\03_Vilagmindenseg\obj\Debug\03_Vilagmindenseg.pdb
+D:\Troll\MagProg2_2018_19_LEV_E\03_Vilagmindenseg\bin\Debug\Egitestek.csv

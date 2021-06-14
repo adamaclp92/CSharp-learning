@@ -1,0 +1,6 @@
+D:\Ragó Ádám1992\Magasprog2\Nevlista\bin\Debug\Nevlista.exe.config
+D:\Ragó Ádám1992\Magasprog2\Nevlista\bin\Debug\Nevlista.exe
+D:\Ragó Ádám1992\Magasprog2\Nevlista\bin\Debug\Nevlista.pdb
+D:\Ragó Ádám1992\Magasprog2\Nevlista\obj\Debug\Nevlista.exe
+D:\Ragó Ádám1992\Magasprog2\Nevlista\obj\Debug\Nevlista.pdb
+D:\Ragó Ádám1992\Magasprog2\Nevlista\obj\Debug\Nevlista.csprojResolveAssemblyReference.cache

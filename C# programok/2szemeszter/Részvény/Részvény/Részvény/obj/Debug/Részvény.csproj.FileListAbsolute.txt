@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\Részvény\Részvény\Részvény\bin\Debug\Részvény.exe.config
+D:\Fájlok\C# programok\2szemeszter\Részvény\Részvény\Részvény\bin\Debug\Részvény.exe
+D:\Fájlok\C# programok\2szemeszter\Részvény\Részvény\Részvény\bin\Debug\Részvény.pdb
+D:\Fájlok\C# programok\2szemeszter\Részvény\Részvény\Részvény\obj\Debug\Részvény.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Részvény\Részvény\Részvény\obj\Debug\Részvény.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Részvény\Részvény\Részvény\obj\Debug\Részvény.exe
+D:\Fájlok\C# programok\2szemeszter\Részvény\Részvény\Részvény\obj\Debug\Részvény.pdb

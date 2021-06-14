@@ -1,0 +1,153 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "47a4ecbe9c14530e5e41c1359f1b3e0c5e07665c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Szerver/1.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "4.6.0-preview4.19212.13"
+        },
+        "runtime": {
+          "Szerver.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.0.0-preview4.19212.13": {},
+      "System.Configuration.ConfigurationManager/4.6.0-preview4.19212.13": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "4.6.0-preview4.19212.13",
+          "System.Security.Permissions": "4.6.0-preview4.19212.13"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.21213"
+          }
+        }
+      },
+      "System.Security.AccessControl/4.6.0-preview4.19212.13": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0-preview4.19212.13",
+          "System.Security.Principal.Windows": "4.6.0-preview4.19212.13"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.AccessControl.dll": {
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.21213"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.21213"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/4.6.0-preview4.19212.13": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "4.700.19.21213"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "4.700.19.21213"
+          }
+        }
+      },
+      "System.Security.Permissions/4.6.0-preview4.19212.13": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.6.0-preview4.19212.13"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.700.19.21213"
+          }
+        }
+      },
+      "System.Security.Principal.Windows/4.6.0-preview4.19212.13": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0-preview4.19212.13"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Principal.Windows.dll": {
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.21213"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.21213"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.19.21213"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Szerver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.0.0-preview4.19212.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cBcFp3iIi/c6AK9F/aZxbZaNhWGOLSJD071L9tO8JbyODp38NDKsJ38Xq/KJUCt1EUIlqnyF6PdqOngFuCvD1Q==",
+      "path": "microsoft.netcore.platforms/3.0.0-preview4.19212.13",
+      "hashPath": "microsoft.netcore.platforms.3.0.0-preview4.19212.13.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/4.6.0-preview4.19212.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BMmL9y/WnJK3mZKY9FGu2IRSRuCc0e4c2bN9YlDNItpko5NWxpW16/DioLMeOFZLZ1rN69DaFJ08BhAYJCtvlA==",
+      "path": "system.configuration.configurationmanager/4.6.0-preview4.19212.13",
+      "hashPath": "system.configuration.configurationmanager.4.6.0-preview4.19212.13.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.6.0-preview4.19212.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6CR7JK35I3R5uKUxmVmAYMb87KIBm1ivqdvRMqxqABgE0FJ1XjKyObV6gC9WgIDKxANLCSwXk8URr3ppJisuPw==",
+      "path": "system.security.accesscontrol/4.6.0-preview4.19212.13",
+      "hashPath": "system.security.accesscontrol.4.6.0-preview4.19212.13.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/4.6.0-preview4.19212.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x2LkMKxUNc5YNRs0eFKeUV0/olnbuvjq6T7mEvLvFR2RKhpJTaG+BYhNzE+ZsJCMo5EiZ//LUfFqay7DxSkuGQ==",
+      "path": "system.security.cryptography.protecteddata/4.6.0-preview4.19212.13",
+      "hashPath": "system.security.cryptography.protecteddata.4.6.0-preview4.19212.13.nupkg.sha512"
+    },
+    "System.Security.Permissions/4.6.0-preview4.19212.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NrZnl3KddPoAumolJC3xtXXzNcSq702gFhb0VpKkybx+ymFa1jEEnbV8Bwoo1A/NTvrphjHT/crxcVXr9eB5ug==",
+      "path": "system.security.permissions/4.6.0-preview4.19212.13",
+      "hashPath": "system.security.permissions.4.6.0-preview4.19212.13.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.6.0-preview4.19212.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FlkMEcNY7M231N6Z69X1PxpxBfvvsDc9d/KfgPiD163dpYAtNn5QIZ+XoQmAZoC+nH47LcgPTCJYVaBzDf+U4A==",
+      "path": "system.security.principal.windows/4.6.0-preview4.19212.13",
+      "hashPath": "system.security.principal.windows.4.6.0-preview4.19212.13.nupkg.sha512"
+    }
+  }
+}

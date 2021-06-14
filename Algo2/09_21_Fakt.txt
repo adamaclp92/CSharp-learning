@@ -1,0 +1,19 @@
+FÜGGVÉNY Fakt(n: EGÉSZ): EGÉSZ;
+ALGORITMUS
+	HA (n <= 1) AKKOR
+		Fakt <- 1;
+	KÜLÖNBEN
+		Fakt <- n * Fakt(n - 1);
+	HVÉGE;
+FVÉGE;
+
+FÜGGVÉNY FaktIterativ(n: EGÉSZ): EGÉSZ;
+VÁLTOZÓK
+	F: EGÉSZ;
+ALGORITMUS
+	F <- 1;
+	CIKLUS I <- (2..n)
+		F <- F * I;
+	CVÉGE;
+	FaktIterativ <- F;
+FVÉGE;

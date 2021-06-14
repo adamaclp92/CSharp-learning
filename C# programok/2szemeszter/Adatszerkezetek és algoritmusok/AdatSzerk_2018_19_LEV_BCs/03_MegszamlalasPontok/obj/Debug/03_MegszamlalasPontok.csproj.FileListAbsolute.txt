@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\03_MegszamlalasPontok\bin\Debug\03_MegszamlalasPontok.exe.config
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\03_MegszamlalasPontok\bin\Debug\03_MegszamlalasPontok.exe
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\03_MegszamlalasPontok\bin\Debug\03_MegszamlalasPontok.pdb
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\03_MegszamlalasPontok\obj\Debug\03_MegszamlalasPontok.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\03_MegszamlalasPontok\obj\Debug\03_MegszamlalasPontok.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\03_MegszamlalasPontok\obj\Debug\03_MegszamlalasPontok.exe
+D:\Fájlok\C# programok\2szemeszter\Adatszerkezetek és algoritmusok\AdatSzerk_2018_19_LEV_BCs\03_MegszamlalasPontok\obj\Debug\03_MegszamlalasPontok.pdb

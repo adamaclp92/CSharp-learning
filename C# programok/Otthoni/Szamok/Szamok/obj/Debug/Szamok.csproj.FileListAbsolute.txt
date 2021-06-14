@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\Szamok\Szamok\bin\Debug\Szamok.exe.config
+D:\Fájlok\C# programok\Otthoni\Szamok\Szamok\bin\Debug\Szamok.exe
+D:\Fájlok\C# programok\Otthoni\Szamok\Szamok\bin\Debug\Szamok.pdb
+D:\Fájlok\C# programok\Otthoni\Szamok\Szamok\obj\Debug\Szamok.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\Szamok\Szamok\obj\Debug\Szamok.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\Szamok\Szamok\obj\Debug\Szamok.exe
+D:\Fájlok\C# programok\Otthoni\Szamok\Szamok\obj\Debug\Szamok.pdb

@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_1\obj\Debug\Rekurzio_1.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_1\obj\Debug\Rekurzio_1.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_1\bin\Debug\Rekurzio_1.exe.config
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_1\bin\Debug\Rekurzio_1.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_1\bin\Debug\Rekurzio_1.pdb
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_1\obj\Debug\Rekurzio_1.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurzio_1\obj\Debug\Rekurzio_1.pdb

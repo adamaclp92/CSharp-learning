@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\RÁ\Algogyak_3\Tombrendezes\bin\Debug\Tombrendezes.exe.config
+C:\Users\user\Desktop\RÁ\Algogyak_3\Tombrendezes\obj\Debug\Tombrendezes.exe
+C:\Users\user\Desktop\RÁ\Algogyak_3\Tombrendezes\obj\Debug\Tombrendezes.pdb

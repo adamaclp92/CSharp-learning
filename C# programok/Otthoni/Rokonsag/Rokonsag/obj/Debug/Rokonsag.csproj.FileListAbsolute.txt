@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\Rokonsag\Rokonsag\bin\Debug\Rokonsag.exe.config
+D:\Fájlok\C# programok\Otthoni\Rokonsag\Rokonsag\bin\Debug\Rokonsag.exe
+D:\Fájlok\C# programok\Otthoni\Rokonsag\Rokonsag\bin\Debug\Rokonsag.pdb
+D:\Fájlok\C# programok\Otthoni\Rokonsag\Rokonsag\obj\Debug\Rokonsag.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\Rokonsag\Rokonsag\obj\Debug\Rokonsag.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\Rokonsag\Rokonsag\obj\Debug\Rokonsag.exe
+D:\Fájlok\C# programok\Otthoni\Rokonsag\Rokonsag\obj\Debug\Rokonsag.pdb

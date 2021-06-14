@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\RÁ\BeesAndWasps\BeesAndWasps\bin\Debug\BeesAndWasps.exe.config
+C:\Users\user\Desktop\RÁ\BeesAndWasps\BeesAndWasps\obj\Debug\BeesAndWasps.csprojResolveAssemblyReference.cache
+C:\Users\Adam\source\repos\C# programok\2szemeszter\BeesAndWasps\BeesAndWasps\obj\Debug\BeesAndWasps.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\C# programok\2szemeszter\BeesAndWasps\BeesAndWasps\obj\Debug\BeesAndWasps.csproj.CoreCompileInputs.cache

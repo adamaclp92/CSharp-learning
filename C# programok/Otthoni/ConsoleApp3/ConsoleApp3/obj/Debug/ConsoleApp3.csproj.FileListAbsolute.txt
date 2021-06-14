@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Fájlok\C# programok\Otthoni\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Fájlok\C# programok\Otthoni\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Fájlok\C# programok\Otthoni\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Fájlok\C# programok\Otthoni\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

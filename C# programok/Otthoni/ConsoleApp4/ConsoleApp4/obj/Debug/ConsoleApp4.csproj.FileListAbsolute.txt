@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Fájlok\C# programok\Otthoni\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Fájlok\C# programok\Otthoni\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Fájlok\C# programok\Otthoni\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Fájlok\C# programok\Otthoni\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

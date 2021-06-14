@@ -1,0 +1,13 @@
+D:\Ragó Ádám1992\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Ragó Ádám1992\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\Ragó Ádám1992\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Ragó Ádám1992\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Ragó Ádám1992\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Ragó Ádám1992\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+d:\Fájlok\C# programok\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+d:\Fájlok\C# programok\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+d:\Fájlok\C# programok\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+d:\Fájlok\C# programok\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+d:\Fájlok\C# programok\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

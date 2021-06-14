@@ -1,0 +1,5 @@
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat2\bin\Debug\Feladat2.exe.config
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat2\bin\Debug\Feladat2.exe
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat2\bin\Debug\Feladat2.pdb
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat2\obj\Debug\Feladat2.exe
+D:\B kurzus S.Atti\ZH_RagoAdam\Feladat2\obj\Debug\Feladat2.pdb

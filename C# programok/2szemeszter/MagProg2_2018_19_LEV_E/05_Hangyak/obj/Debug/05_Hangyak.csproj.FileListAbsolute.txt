@@ -1,0 +1,6 @@
+D:\Troll\MagProg2_2018_19_LEV_E\05_Hangyak\bin\Debug\05_Hangyak.exe.config
+D:\Troll\MagProg2_2018_19_LEV_E\05_Hangyak\obj\Debug\05_Hangyak.csprojResolveAssemblyReference.cache
+D:\Troll\MagProg2_2018_19_LEV_E\05_Hangyak\bin\Debug\05_Hangyak.exe
+D:\Troll\MagProg2_2018_19_LEV_E\05_Hangyak\bin\Debug\05_Hangyak.pdb
+D:\Troll\MagProg2_2018_19_LEV_E\05_Hangyak\obj\Debug\05_Hangyak.exe
+D:\Troll\MagProg2_2018_19_LEV_E\05_Hangyak\obj\Debug\05_Hangyak.pdb

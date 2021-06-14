@@ -1,0 +1,6 @@
+D:\Ragó Ádám1992\Magasprog2\Magasprog2\bin\Debug\Magasprog2.exe.config
+D:\Ragó Ádám1992\Magasprog2\Magasprog2\bin\Debug\Magasprog2.exe
+D:\Ragó Ádám1992\Magasprog2\Magasprog2\bin\Debug\Magasprog2.pdb
+D:\Ragó Ádám1992\Magasprog2\Magasprog2\obj\Debug\Magasprog2.csprojResolveAssemblyReference.cache
+D:\Ragó Ádám1992\Magasprog2\Magasprog2\obj\Debug\Magasprog2.exe
+D:\Ragó Ádám1992\Magasprog2\Magasprog2\obj\Debug\Magasprog2.pdb

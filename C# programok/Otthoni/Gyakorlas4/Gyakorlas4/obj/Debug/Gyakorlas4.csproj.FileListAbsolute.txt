@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\Gyakorlas4\Gyakorlas4\bin\Debug\Gyakorlas4.exe.config
+D:\Fájlok\C# programok\Otthoni\Gyakorlas4\Gyakorlas4\bin\Debug\Gyakorlas4.exe
+D:\Fájlok\C# programok\Otthoni\Gyakorlas4\Gyakorlas4\bin\Debug\Gyakorlas4.pdb
+D:\Fájlok\C# programok\Otthoni\Gyakorlas4\Gyakorlas4\obj\Debug\Gyakorlas4.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\Gyakorlas4\Gyakorlas4\obj\Debug\Gyakorlas4.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\Gyakorlas4\Gyakorlas4\obj\Debug\Gyakorlas4.exe
+D:\Fájlok\C# programok\Otthoni\Gyakorlas4\Gyakorlas4\obj\Debug\Gyakorlas4.pdb

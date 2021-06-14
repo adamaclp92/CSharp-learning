@@ -1,0 +1,9 @@
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\bin\Debug\03_Spirál.exe.config
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\bin\Debug\03_Spirál.exe
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\bin\Debug\03_Spirál.pdb
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\obj\Debug\03_Spirál.csprojResolveAssemblyReference.cache
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\obj\Debug\_03_Spirál.Form1.resources
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\obj\Debug\_03_Spirál.Properties.Resources.resources
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\obj\Debug\03_Spirál.csproj.GenerateResource.Cache
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\obj\Debug\03_Spirál.exe
+C:\Users\Hallgató\Desktop\RÁ\Algo2\03_Spirál\obj\Debug\03_Spirál.pdb

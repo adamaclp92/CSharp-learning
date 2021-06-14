@@ -1,0 +1,7 @@
+C:\Users\Adam\source\repos\Beadando_Rago_Adam\Beadando_Rago_Adam\bin\Debug\Beadando_Rago_Adam.exe.config
+C:\Users\Adam\source\repos\Beadando_Rago_Adam\Beadando_Rago_Adam\bin\Debug\Beadando_Rago_Adam.exe
+C:\Users\Adam\source\repos\Beadando_Rago_Adam\Beadando_Rago_Adam\bin\Debug\Beadando_Rago_Adam.pdb
+C:\Users\Adam\source\repos\Beadando_Rago_Adam\Beadando_Rago_Adam\obj\Debug\LancoltLista.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Beadando_Rago_Adam\Beadando_Rago_Adam\obj\Debug\LancoltLista.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Beadando_Rago_Adam\Beadando_Rago_Adam\obj\Debug\Beadando_Rago_Adam.exe
+C:\Users\Adam\source\repos\Beadando_Rago_Adam\Beadando_Rago_Adam\obj\Debug\Beadando_Rago_Adam.pdb

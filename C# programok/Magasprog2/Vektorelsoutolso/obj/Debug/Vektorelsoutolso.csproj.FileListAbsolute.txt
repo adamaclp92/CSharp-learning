@@ -1,0 +1,5 @@
+D:\Ragó Ádám1992\Magasprog2\Vektorelsoutolso\bin\Debug\Vektorelsoutolso.exe.config
+D:\Ragó Ádám1992\Magasprog2\Vektorelsoutolso\bin\Debug\Vektorelsoutolso.exe
+D:\Ragó Ádám1992\Magasprog2\Vektorelsoutolso\bin\Debug\Vektorelsoutolso.pdb
+D:\Ragó Ádám1992\Magasprog2\Vektorelsoutolso\obj\Debug\Vektorelsoutolso.exe
+D:\Ragó Ádám1992\Magasprog2\Vektorelsoutolso\obj\Debug\Vektorelsoutolso.pdb

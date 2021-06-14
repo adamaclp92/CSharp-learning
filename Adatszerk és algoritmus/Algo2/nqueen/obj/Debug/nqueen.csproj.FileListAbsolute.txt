@@ -1,0 +1,7 @@
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\nqueen\obj\Debug\nqueen.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\nqueen\obj\Debug\nqueen.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\nqueen\bin\Debug\nqueen.exe.config
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\nqueen\bin\Debug\nqueen.exe
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\nqueen\bin\Debug\nqueen.pdb
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\nqueen\obj\Debug\nqueen.exe
+C:\Users\Adam\source\repos\Adatszerk és algoritmus\Algo2\nqueen\obj\Debug\nqueen.pdb

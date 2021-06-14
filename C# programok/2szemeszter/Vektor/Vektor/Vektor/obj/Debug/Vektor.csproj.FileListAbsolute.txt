@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\Vektor\Vektor\Vektor\bin\Debug\Vektor.exe.config
+D:\Fájlok\C# programok\2szemeszter\Vektor\Vektor\Vektor\bin\Debug\Vektor.exe
+D:\Fájlok\C# programok\2szemeszter\Vektor\Vektor\Vektor\bin\Debug\Vektor.pdb
+D:\Fájlok\C# programok\2szemeszter\Vektor\Vektor\Vektor\obj\Debug\Vektor.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Vektor\Vektor\Vektor\obj\Debug\Vektor.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Vektor\Vektor\Vektor\obj\Debug\Vektor.exe
+D:\Fájlok\C# programok\2szemeszter\Vektor\Vektor\Vektor\obj\Debug\Vektor.pdb

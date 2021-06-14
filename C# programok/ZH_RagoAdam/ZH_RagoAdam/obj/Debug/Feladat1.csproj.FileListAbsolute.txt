@@ -1,0 +1,5 @@
+D:\B kurzus S.Atti\ZH_RagoAdam\ZH_RagoAdam\bin\Debug\ZH_RagoAdam.exe.config
+D:\B kurzus S.Atti\ZH_RagoAdam\ZH_RagoAdam\bin\Debug\ZH_RagoAdam.exe
+D:\B kurzus S.Atti\ZH_RagoAdam\ZH_RagoAdam\bin\Debug\ZH_RagoAdam.pdb
+D:\B kurzus S.Atti\ZH_RagoAdam\ZH_RagoAdam\obj\Debug\ZH_RagoAdam.exe
+D:\B kurzus S.Atti\ZH_RagoAdam\ZH_RagoAdam\obj\Debug\ZH_RagoAdam.pdb

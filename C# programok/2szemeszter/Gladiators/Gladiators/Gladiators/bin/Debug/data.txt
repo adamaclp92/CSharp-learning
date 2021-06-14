@@ -1,0 +1,12 @@
+﻿1;4;gall;2
+2;6;romai
+3;2;pun;5
+4;10;trak;0
+5;1;romai
+6;9;pun;-3
+7;4;gall;2
+8;6;romai
+9;2;pun;5
+10;10;trak;0
+11;1;romai
+12;9;pun;-3

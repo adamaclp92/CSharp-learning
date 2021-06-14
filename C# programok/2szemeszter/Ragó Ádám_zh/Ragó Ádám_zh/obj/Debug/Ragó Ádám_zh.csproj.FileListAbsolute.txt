@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\RÁ\Ragó Ádám_zh\Ragó Ádám_zh\bin\Debug\Ragó Ádám_zh.exe.config
+C:\Users\user\Desktop\RÁ\Ragó Ádám_zh\Ragó Ádám_zh\obj\Debug\Ragó Ádám_zh.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RÁ\Ragó Ádám_zh\Ragó Ádám_zh\bin\Debug\Ragó Ádám_zh.exe
+C:\Users\user\Desktop\RÁ\Ragó Ádám_zh\Ragó Ádám_zh\bin\Debug\Ragó Ádám_zh.pdb
+C:\Users\user\Desktop\RÁ\Ragó Ádám_zh\Ragó Ádám_zh\obj\Debug\Ragó Ádám_zh.exe
+C:\Users\user\Desktop\RÁ\Ragó Ádám_zh\Ragó Ádám_zh\obj\Debug\Ragó Ádám_zh.pdb
+C:\Users\user\Desktop\RÁ\Ragó Ádám_zh\Ragó Ádám_zh\bin\Debug\ingatlanok.csv
+d:\Fájlok\C# programok\2szemeszter\Ragó Ádám_zh\Ragó Ádám_zh\bin\Debug\ingatlanok.csv
+d:\Fájlok\C# programok\2szemeszter\Ragó Ádám_zh\Ragó Ádám_zh\bin\Debug\Ragó Ádám_zh.exe.config
+d:\Fájlok\C# programok\2szemeszter\Ragó Ádám_zh\Ragó Ádám_zh\bin\Debug\Ragó Ádám_zh.exe
+d:\Fájlok\C# programok\2szemeszter\Ragó Ádám_zh\Ragó Ádám_zh\bin\Debug\Ragó Ádám_zh.pdb
+d:\Fájlok\C# programok\2szemeszter\Ragó Ádám_zh\Ragó Ádám_zh\obj\Debug\Ragó Ádám_zh.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\2szemeszter\Ragó Ádám_zh\Ragó Ádám_zh\obj\Debug\Ragó Ádám_zh.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\2szemeszter\Ragó Ádám_zh\Ragó Ádám_zh\obj\Debug\Ragó Ádám_zh.exe
+d:\Fájlok\C# programok\2szemeszter\Ragó Ádám_zh\Ragó Ádám_zh\obj\Debug\Ragó Ádám_zh.pdb

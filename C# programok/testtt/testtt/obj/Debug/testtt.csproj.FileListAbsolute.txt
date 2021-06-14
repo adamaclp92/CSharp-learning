@@ -1,0 +1,7 @@
+E:\Fájlok\C# programok\testtt\testtt\bin\Debug\testtt.exe.config
+E:\Fájlok\C# programok\testtt\testtt\bin\Debug\testtt.exe
+E:\Fájlok\C# programok\testtt\testtt\bin\Debug\testtt.pdb
+E:\Fájlok\C# programok\testtt\testtt\obj\Debug\testtt.csprojAssemblyReference.cache
+E:\Fájlok\C# programok\testtt\testtt\obj\Debug\testtt.csproj.CoreCompileInputs.cache
+E:\Fájlok\C# programok\testtt\testtt\obj\Debug\testtt.exe
+E:\Fájlok\C# programok\testtt\testtt\obj\Debug\testtt.pdb

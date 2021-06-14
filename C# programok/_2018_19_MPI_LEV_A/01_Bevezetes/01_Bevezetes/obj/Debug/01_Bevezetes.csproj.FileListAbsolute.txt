@@ -1,0 +1,13 @@
+D:\Troll\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\bin\Debug\01_Bevezetes.exe.config
+D:\Troll\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\bin\Debug\01_Bevezetes.exe
+D:\Troll\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\bin\Debug\01_Bevezetes.pdb
+D:\Troll\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\obj\Debug\01_Bevezetes.csprojResolveAssemblyReference.cache
+D:\Troll\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\obj\Debug\01_Bevezetes.exe
+D:\Troll\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\obj\Debug\01_Bevezetes.pdb
+d:\Fájlok\C# programok\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\bin\Debug\01_Bevezetes.exe.config
+d:\Fájlok\C# programok\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\bin\Debug\01_Bevezetes.exe
+d:\Fájlok\C# programok\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\bin\Debug\01_Bevezetes.pdb
+d:\Fájlok\C# programok\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\obj\Debug\01_Bevezetes.csprojAssemblyReference.cache
+d:\Fájlok\C# programok\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\obj\Debug\01_Bevezetes.csproj.CoreCompileInputs.cache
+d:\Fájlok\C# programok\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\obj\Debug\01_Bevezetes.exe
+d:\Fájlok\C# programok\_2018_19_MPI_LEV_A\01_Bevezetes\01_Bevezetes\obj\Debug\01_Bevezetes.pdb

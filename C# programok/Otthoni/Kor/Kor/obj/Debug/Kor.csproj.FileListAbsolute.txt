@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\Otthoni\Kor\Kor\bin\Debug\Kor.exe.config
+D:\Fájlok\C# programok\Otthoni\Kor\Kor\bin\Debug\Kor.exe
+D:\Fájlok\C# programok\Otthoni\Kor\Kor\bin\Debug\Kor.pdb
+D:\Fájlok\C# programok\Otthoni\Kor\Kor\obj\Debug\Kor.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\Otthoni\Kor\Kor\obj\Debug\Kor.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\Otthoni\Kor\Kor\obj\Debug\Kor.exe
+D:\Fájlok\C# programok\Otthoni\Kor\Kor\obj\Debug\Kor.pdb

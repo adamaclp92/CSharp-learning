@@ -1,0 +1,6 @@
+D:\Troll\MagProg2_2018_19_LEV_E\02_Konyvesbolt\bin\Debug\02_Konyvesbolt.exe.config
+D:\Troll\MagProg2_2018_19_LEV_E\02_Konyvesbolt\bin\Debug\02_Konyvesbolt.exe
+D:\Troll\MagProg2_2018_19_LEV_E\02_Konyvesbolt\bin\Debug\02_Konyvesbolt.pdb
+D:\Troll\MagProg2_2018_19_LEV_E\02_Konyvesbolt\obj\Debug\02_Konyvesbolt.exe
+D:\Troll\MagProg2_2018_19_LEV_E\02_Konyvesbolt\obj\Debug\02_Konyvesbolt.pdb
+D:\Troll\MagProg2_2018_19_LEV_E\02_Konyvesbolt\obj\Debug\02_Konyvesbolt.csprojResolveAssemblyReference.cache

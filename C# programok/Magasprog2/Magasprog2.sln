@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magasprog2", "Magasprog2\Magasprog2.csproj", "{587482BA-3681-43DE-87D1-383877FF3955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nevlista", "Nevlista\Nevlista.csproj", "{E8334AD0-7C63-4FE3-9366-195EC49CB10F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veletlenszamok", "Veletlenszamok\Veletlenszamok.csproj", "{6B03B121-4023-4C20-BFA4-DE72DB44062B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorelsoutolso", "Vektorelsoutolso\Vektorelsoutolso.csproj", "{275F9F10-C0C5-491B-AF94-3241EB063414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veletlenprojekt", "veletlenprojekt\veletlenprojekt.csproj", "{5D05F6D4-8487-4B0F-9B87-849763A7BD00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottoszamok", "Lottoszamok\Lottoszamok.csproj", "{5BD0A636-E0BF-4FC7-ADB2-8E6845F254EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magassagmeres", "Magassagmeres\Magassagmeres.csproj", "{58A99E4E-AB01-42B3-BFD2-B8AD0EE7847C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587482BA-3681-43DE-87D1-383877FF3955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587482BA-3681-43DE-87D1-383877FF3955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587482BA-3681-43DE-87D1-383877FF3955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587482BA-3681-43DE-87D1-383877FF3955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8334AD0-7C63-4FE3-9366-195EC49CB10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8334AD0-7C63-4FE3-9366-195EC49CB10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8334AD0-7C63-4FE3-9366-195EC49CB10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8334AD0-7C63-4FE3-9366-195EC49CB10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B03B121-4023-4C20-BFA4-DE72DB44062B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B03B121-4023-4C20-BFA4-DE72DB44062B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B03B121-4023-4C20-BFA4-DE72DB44062B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B03B121-4023-4C20-BFA4-DE72DB44062B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275F9F10-C0C5-491B-AF94-3241EB063414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275F9F10-C0C5-491B-AF94-3241EB063414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275F9F10-C0C5-491B-AF94-3241EB063414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275F9F10-C0C5-491B-AF94-3241EB063414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D05F6D4-8487-4B0F-9B87-849763A7BD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D05F6D4-8487-4B0F-9B87-849763A7BD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D05F6D4-8487-4B0F-9B87-849763A7BD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D05F6D4-8487-4B0F-9B87-849763A7BD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD0A636-E0BF-4FC7-ADB2-8E6845F254EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD0A636-E0BF-4FC7-ADB2-8E6845F254EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD0A636-E0BF-4FC7-ADB2-8E6845F254EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD0A636-E0BF-4FC7-ADB2-8E6845F254EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A99E4E-AB01-42B3-BFD2-B8AD0EE7847C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A99E4E-AB01-42B3-BFD2-B8AD0EE7847C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A99E4E-AB01-42B3-BFD2-B8AD0EE7847C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A99E4E-AB01-42B3-BFD2-B8AD0EE7847C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurbubi\bin\Debug\Rekurbubi.exe.config
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurbubi\bin\Debug\Rekurbubi.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurbubi\bin\Debug\Rekurbubi.pdb
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurbubi\obj\Debug\Rekurbubi.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurbubi\obj\Debug\Rekurbubi.exe
+C:\Users\Adam\Desktop\Algo2gyak\Algogyak\Rekurbubi\obj\Debug\Rekurbubi.pdb
+C:\Users\Adam\Desktop\Algo2\Algo2gyak\Algogyak\Rekurbubi\bin\Debug\Rekurbubi.exe.config
+C:\Users\Adam\Desktop\Algo2\Algo2gyak\Algogyak\Rekurbubi\bin\Debug\Rekurbubi.exe
+C:\Users\Adam\Desktop\Algo2\Algo2gyak\Algogyak\Rekurbubi\bin\Debug\Rekurbubi.pdb
+C:\Users\Adam\Desktop\Algo2\Algo2gyak\Algogyak\Rekurbubi\obj\Debug\Rekurbubi.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Algo2\Algo2gyak\Algogyak\Rekurbubi\obj\Debug\Rekurbubi.exe
+C:\Users\Adam\Desktop\Algo2\Algo2gyak\Algogyak\Rekurbubi\obj\Debug\Rekurbubi.pdb

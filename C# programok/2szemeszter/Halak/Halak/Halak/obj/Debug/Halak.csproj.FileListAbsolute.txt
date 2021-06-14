@@ -1,0 +1,7 @@
+D:\Fájlok\C# programok\2szemeszter\Halak\Halak\Halak\bin\Debug\Halak.exe.config
+D:\Fájlok\C# programok\2szemeszter\Halak\Halak\Halak\bin\Debug\Halak.exe
+D:\Fájlok\C# programok\2szemeszter\Halak\Halak\Halak\bin\Debug\Halak.pdb
+D:\Fájlok\C# programok\2szemeszter\Halak\Halak\Halak\obj\Debug\Halak.csprojAssemblyReference.cache
+D:\Fájlok\C# programok\2szemeszter\Halak\Halak\Halak\obj\Debug\Halak.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# programok\2szemeszter\Halak\Halak\Halak\obj\Debug\Halak.exe
+D:\Fájlok\C# programok\2szemeszter\Halak\Halak\Halak\obj\Debug\Halak.pdb

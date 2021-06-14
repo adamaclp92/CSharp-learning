@@ -1,0 +1,6 @@
+D:\AlgoII_LEV_B\05_Fa\bin\Debug\05_Fa.exe.config
+D:\AlgoII_LEV_B\05_Fa\bin\Debug\05_Fa.exe
+D:\AlgoII_LEV_B\05_Fa\bin\Debug\05_Fa.pdb
+D:\AlgoII_LEV_B\05_Fa\obj\Debug\05_Fa.csprojResolveAssemblyReference.cache
+D:\AlgoII_LEV_B\05_Fa\obj\Debug\05_Fa.exe
+D:\AlgoII_LEV_B\05_Fa\obj\Debug\05_Fa.pdb
